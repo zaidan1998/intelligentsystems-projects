@@ -1,0 +1,887 @@
+country,year,sex,age,suicides_no,population,suicides/100k pop,country-year,HDI for year, gdp_for_year ($) ,gdp_per_capita ($),generation
+Singapore,1985,male,75+ years,23,15900,144.65,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+Singapore,1985,female,75+ years,19,24500,77.55,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+Singapore,1985,male,55-74 years,39,122400,31.86,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+Singapore,1985,female,55-74 years,25,125100,19.98,Singapore1985,,"19,138,296,376",8142,G.I. Generation
+Singapore,1985,male,25-34 years,52,280500,18.54,Singapore1985,,"19,138,296,376",8142,Boomers
+Singapore,1985,male,35-54 years,49,292500,16.75,Singapore1985,,"19,138,296,376",8142,Silent
+Singapore,1985,female,25-34 years,35,266700,13.12,Singapore1985,,"19,138,296,376",8142,Boomers
+Singapore,1985,male,15-24 years,27,268000,10.07,Singapore1985,,"19,138,296,376",8142,Generation X
+Singapore,1985,female,15-24 years,25,253400,9.87,Singapore1985,,"19,138,296,376",8142,Generation X
+Singapore,1985,female,35-54 years,27,285200,9.47,Singapore1985,,"19,138,296,376",8142,Silent
+Singapore,1985,female,5-14 years,3,200400,1.5,Singapore1985,,"19,138,296,376",8142,Generation X
+Singapore,1985,male,5-14 years,0,215900,0,Singapore1985,,"19,138,296,376",8142,Generation X
+Singapore,1986,female,75+ years,30,26000,115.38,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+Singapore,1986,male,75+ years,14,17200,81.4,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+Singapore,1986,male,55-74 years,44,125800,34.98,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+Singapore,1986,male,35-54 years,54,304500,17.73,Singapore1986,,"18,569,292,305",7805,Silent
+Singapore,1986,male,25-34 years,46,288100,15.97,Singapore1986,,"18,569,292,305",7805,Boomers
+Singapore,1986,female,55-74 years,20,128500,15.56,Singapore1986,,"18,569,292,305",7805,G.I. Generation
+Singapore,1986,female,25-34 years,35,273000,12.82,Singapore1986,,"18,569,292,305",7805,Boomers
+Singapore,1986,male,15-24 years,31,260000,11.92,Singapore1986,,"18,569,292,305",7805,Generation X
+Singapore,1986,female,35-54 years,34,297800,11.42,Singapore1986,,"18,569,292,305",7805,Silent
+Singapore,1986,female,15-24 years,16,246400,6.49,Singapore1986,,"18,569,292,305",7805,Generation X
+Singapore,1986,male,5-14 years,2,213700,0.94,Singapore1986,,"18,569,292,305",7805,Generation X
+Singapore,1986,female,5-14 years,0,198300,0,Singapore1986,,"18,569,292,305",7805,Generation X
+Singapore,1987,male,75+ years,17,18300,92.9,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+Singapore,1987,female,75+ years,16,27700,57.76,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+Singapore,1987,male,55-74 years,42,128900,32.58,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+Singapore,1987,female,55-74 years,29,132300,21.92,Singapore1987,,"20,897,630,201",8679,G.I. Generation
+Singapore,1987,male,25-34 years,48,293500,16.35,Singapore1987,,"20,897,630,201",8679,Boomers
+Singapore,1987,male,35-54 years,43,318100,13.52,Singapore1987,,"20,897,630,201",8679,Silent
+Singapore,1987,female,25-34 years,36,277400,12.98,Singapore1987,,"20,897,630,201",8679,Boomers
+Singapore,1987,female,35-54 years,33,311000,10.61,Singapore1987,,"20,897,630,201",8679,Silent
+Singapore,1987,male,15-24 years,21,253600,8.28,Singapore1987,,"20,897,630,201",8679,Generation X
+Singapore,1987,female,15-24 years,16,240100,6.66,Singapore1987,,"20,897,630,201",8679,Generation X
+Singapore,1987,female,5-14 years,0,195600,0,Singapore1987,,"20,897,630,201",8679,Generation X
+Singapore,1987,male,5-14 years,0,211300,0,Singapore1987,,"20,897,630,201",8679,Generation X
+Singapore,1988,male,75+ years,30,21600,138.89,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+Singapore,1988,female,75+ years,27,31800,84.91,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+Singapore,1988,male,55-74 years,43,131400,32.72,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+Singapore,1988,male,35-54 years,63,319100,19.74,Singapore1988,,"25,337,226,971",10586,Silent
+Singapore,1988,male,25-34 years,52,288000,18.06,Singapore1988,,"25,337,226,971",10586,Boomers
+Singapore,1988,female,55-74 years,23,136200,16.89,Singapore1988,,"25,337,226,971",10586,G.I. Generation
+Singapore,1988,male,15-24 years,31,241600,12.83,Singapore1988,,"25,337,226,971",10586,Generation X
+Singapore,1988,female,25-34 years,33,277100,11.91,Singapore1988,,"25,337,226,971",10586,Boomers
+Singapore,1988,female,15-24 years,25,229800,10.88,Singapore1988,,"25,337,226,971",10586,Generation X
+Singapore,1988,female,35-54 years,34,314300,10.82,Singapore1988,,"25,337,226,971",10586,Silent
+Singapore,1988,female,5-14 years,4,193900,2.06,Singapore1988,,"25,337,226,971",10586,Generation X
+Singapore,1988,male,5-14 years,1,208600,0.48,Singapore1988,,"25,337,226,971",10586,Generation X
+Singapore,1989,male,75+ years,25,22800,109.65,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+Singapore,1989,female,75+ years,33,33500,98.51,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+Singapore,1989,male,55-74 years,41,135300,30.3,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+Singapore,1989,female,55-74 years,33,141000,23.4,Singapore1989,,"30,423,573,842",12514,G.I. Generation
+Singapore,1989,male,35-54 years,65,336500,19.32,Singapore1989,,"30,423,573,842",12514,Silent
+Singapore,1989,male,25-34 years,50,290700,17.2,Singapore1989,,"30,423,573,842",12514,Boomers
+Singapore,1989,female,15-24 years,35,224700,15.58,Singapore1989,,"30,423,573,842",12514,Generation X
+Singapore,1989,female,25-34 years,38,280700,13.54,Singapore1989,,"30,423,573,842",12514,Boomers
+Singapore,1989,male,15-24 years,32,236800,13.51,Singapore1989,,"30,423,573,842",12514,Generation X
+Singapore,1989,female,35-54 years,40,329800,12.13,Singapore1989,,"30,423,573,842",12514,Silent
+Singapore,1989,male,5-14 years,2,207000,0.97,Singapore1989,,"30,423,573,842",12514,Generation X
+Singapore,1989,female,5-14 years,0,192300,0,Singapore1989,,"30,423,573,842",12514,Generation X
+Singapore,1990,male,75+ years,19,24100,78.84,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+Singapore,1990,female,75+ years,23,35400,64.97,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+Singapore,1990,male,55-74 years,39,140900,27.68,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+Singapore,1990,female,55-74 years,27,147100,18.35,Singapore1990,0.718,"36,152,027,893",14393,G.I. Generation
+Singapore,1990,male,35-54 years,63,359200,17.54,Singapore1990,0.718,"36,152,027,893",14393,Silent
+Singapore,1990,male,25-34 years,47,299900,15.67,Singapore1990,0.718,"36,152,027,893",14393,Boomers
+Singapore,1990,female,25-34 years,43,289400,14.86,Singapore1990,0.718,"36,152,027,893",14393,Boomers
+Singapore,1990,male,15-24 years,31,236800,13.09,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+Singapore,1990,female,35-54 years,42,349400,12.02,Singapore1990,0.718,"36,152,027,893",14393,Silent
+Singapore,1990,female,15-24 years,17,225500,7.54,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+Singapore,1990,male,5-14 years,2,209400,0.96,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+Singapore,1990,female,5-14 years,1,194700,0.51,Singapore1990,0.718,"36,152,027,893",14393,Generation X
+Singapore,1991,male,75+ years,16,25000,64,Singapore1991,,"45,474,442,836",17768,G.I. Generation
+Singapore,1991,female,75+ years,21,36700,57.22,Singapore1991,,"45,474,442,836",17768,G.I. Generation
+Singapore,1991,male,55-74 years,38,144300,26.33,Singapore1991,,"45,474,442,836",17768,Silent
+Singapore,1991,female,55-74 years,25,150800,16.58,Singapore1991,,"45,474,442,836",17768,Silent
+Singapore,1991,male,25-34 years,44,301200,14.61,Singapore1991,,"45,474,442,836",17768,Boomers
+Singapore,1991,male,35-54 years,54,379500,14.23,Singapore1991,,"45,474,442,836",17768,Boomers
+Singapore,1991,male,15-24 years,25,231300,10.81,Singapore1991,,"45,474,442,836",17768,Generation X
+Singapore,1991,female,25-34 years,28,292600,9.57,Singapore1991,,"45,474,442,836",17768,Boomers
+Singapore,1991,female,15-24 years,16,221500,7.22,Singapore1991,,"45,474,442,836",17768,Generation X
+Singapore,1991,female,35-54 years,25,369500,6.77,Singapore1991,,"45,474,442,836",17768,Boomers
+Singapore,1991,female,5-14 years,4,195900,2.04,Singapore1991,,"45,474,442,836",17768,Millenials
+Singapore,1991,male,5-14 years,0,211000,0,Singapore1991,,"45,474,442,836",17768,Millenials
+Singapore,1992,male,75+ years,15,26000,57.69,Singapore1992,,"52,156,414,979",20029,G.I. Generation
+Singapore,1992,female,75+ years,20,38200,52.36,Singapore1992,,"52,156,414,979",20029,G.I. Generation
+Singapore,1992,male,55-74 years,26,147100,17.68,Singapore1992,,"52,156,414,979",20029,Silent
+Singapore,1992,female,55-74 years,27,153300,17.61,Singapore1992,,"52,156,414,979",20029,Silent
+Singapore,1992,male,25-34 years,43,299300,14.37,Singapore1992,,"52,156,414,979",20029,Boomers
+Singapore,1992,male,35-54 years,53,400800,13.22,Singapore1992,,"52,156,414,979",20029,Boomers
+Singapore,1992,female,25-34 years,28,293200,9.55,Singapore1992,,"52,156,414,979",20029,Boomers
+Singapore,1992,male,15-24 years,21,228100,9.21,Singapore1992,,"52,156,414,979",20029,Generation X
+Singapore,1992,female,35-54 years,32,391200,8.18,Singapore1992,,"52,156,414,979",20029,Boomers
+Singapore,1992,female,15-24 years,9,220000,4.09,Singapore1992,,"52,156,414,979",20029,Generation X
+Singapore,1992,male,5-14 years,2,211000,0.95,Singapore1992,,"52,156,414,979",20029,Millenials
+Singapore,1992,female,5-14 years,1,195800,0.51,Singapore1992,,"52,156,414,979",20029,Millenials
+Singapore,1993,male,75+ years,26,26800,97.01,Singapore1993,,"60,644,572,348",22835,G.I. Generation
+Singapore,1993,female,75+ years,20,39500,50.63,Singapore1993,,"60,644,572,348",22835,G.I. Generation
+Singapore,1993,male,55-74 years,31,151200,20.5,Singapore1993,,"60,644,572,348",22835,Silent
+Singapore,1993,male,35-54 years,56,420500,13.32,Singapore1993,,"60,644,572,348",22835,Boomers
+Singapore,1993,female,55-74 years,21,157900,13.3,Singapore1993,,"60,644,572,348",22835,Silent
+Singapore,1993,male,25-34 years,36,296600,12.14,Singapore1993,,"60,644,572,348",22835,Boomers
+Singapore,1993,male,15-24 years,19,224300,8.47,Singapore1993,,"60,644,572,348",22835,Generation X
+Singapore,1993,female,35-54 years,28,411300,6.81,Singapore1993,,"60,644,572,348",22835,Boomers
+Singapore,1993,female,25-34 years,19,292900,6.49,Singapore1993,,"60,644,572,348",22835,Boomers
+Singapore,1993,female,15-24 years,13,217700,5.97,Singapore1993,,"60,644,572,348",22835,Generation X
+Singapore,1993,female,5-14 years,1,200800,0.5,Singapore1993,,"60,644,572,348",22835,Millenials
+Singapore,1993,male,5-14 years,0,216300,0,Singapore1993,,"60,644,572,348",22835,Millenials
+Singapore,1994,male,75+ years,24,27500,87.27,Singapore1994,,"73,777,792,327",27202,G.I. Generation
+Singapore,1994,female,75+ years,23,40500,56.79,Singapore1994,,"73,777,792,327",27202,G.I. Generation
+Singapore,1994,male,55-74 years,37,157700,23.46,Singapore1994,,"73,777,792,327",27202,Silent
+Singapore,1994,female,55-74 years,26,165300,15.73,Singapore1994,,"73,777,792,327",27202,Silent
+Singapore,1994,male,35-54 years,69,439100,15.71,Singapore1994,,"73,777,792,327",27202,Boomers
+Singapore,1994,male,25-34 years,35,291200,12.02,Singapore1994,,"73,777,792,327",27202,Boomers
+Singapore,1994,male,15-24 years,24,222900,10.77,Singapore1994,,"73,777,792,327",27202,Generation X
+Singapore,1994,female,35-54 years,39,429400,9.08,Singapore1994,,"73,777,792,327",27202,Boomers
+Singapore,1994,female,15-24 years,19,216300,8.78,Singapore1994,,"73,777,792,327",27202,Generation X
+Singapore,1994,female,25-34 years,17,291500,5.83,Singapore1994,,"73,777,792,327",27202,Boomers
+Singapore,1994,female,5-14 years,2,207500,0.96,Singapore1994,,"73,777,792,327",27202,Millenials
+Singapore,1994,male,5-14 years,1,223300,0.45,Singapore1994,,"73,777,792,327",27202,Millenials
+Singapore,1995,male,75+ years,32,28200,113.48,Singapore1995,0.773,"87,890,009,877",31783,G.I. Generation
+Singapore,1995,female,75+ years,24,41800,57.42,Singapore1995,0.773,"87,890,009,877",31783,G.I. Generation
+Singapore,1995,male,55-74 years,46,164600,27.95,Singapore1995,0.773,"87,890,009,877",31783,Silent
+Singapore,1995,male,35-54 years,92,457000,20.13,Singapore1995,0.773,"87,890,009,877",31783,Boomers
+Singapore,1995,female,55-74 years,28,172900,16.19,Singapore1995,0.773,"87,890,009,877",31783,Silent
+Singapore,1995,female,35-54 years,50,447500,11.17,Singapore1995,0.773,"87,890,009,877",31783,Boomers
+Singapore,1995,male,25-34 years,31,286200,10.83,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+Singapore,1995,male,15-24 years,23,221900,10.37,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+Singapore,1995,female,15-24 years,16,215400,7.43,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+Singapore,1995,female,25-34 years,20,289600,6.91,Singapore1995,0.773,"87,890,009,877",31783,Generation X
+Singapore,1995,male,5-14 years,2,228000,0.88,Singapore1995,0.773,"87,890,009,877",31783,Millenials
+Singapore,1995,female,5-14 years,0,212200,0,Singapore1995,0.773,"87,890,009,877",31783,Millenials
+Singapore,1996,male,75+ years,26,28800,90.28,Singapore1996,,"96,403,758,865",34148,G.I. Generation
+Singapore,1996,female,75+ years,21,42600,49.3,Singapore1996,,"96,403,758,865",34148,G.I. Generation
+Singapore,1996,male,55-74 years,21,171300,12.26,Singapore1996,,"96,403,758,865",34148,Silent
+Singapore,1996,male,25-34 years,34,283600,11.99,Singapore1996,,"96,403,758,865",34148,Generation X
+Singapore,1996,male,35-54 years,50,475400,10.52,Singapore1996,,"96,403,758,865",34148,Boomers
+Singapore,1996,female,55-74 years,19,180800,10.51,Singapore1996,,"96,403,758,865",34148,Silent
+Singapore,1996,male,15-24 years,20,220500,9.07,Singapore1996,,"96,403,758,865",34148,Generation X
+Singapore,1996,female,25-34 years,17,289000,5.88,Singapore1996,,"96,403,758,865",34148,Generation X
+Singapore,1996,female,35-54 years,21,465900,4.51,Singapore1996,,"96,403,758,865",34148,Boomers
+Singapore,1996,female,15-24 years,6,213600,2.81,Singapore1996,,"96,403,758,865",34148,Generation X
+Singapore,1996,female,5-14 years,3,217600,1.38,Singapore1996,,"96,403,758,865",34148,Millenials
+Singapore,1996,male,5-14 years,1,234000,0.43,Singapore1996,,"96,403,758,865",34148,Millenials
+Singapore,1997,male,75+ years,24,29500,81.36,Singapore1997,,"100,163,995,151",34779,G.I. Generation
+Singapore,1997,female,75+ years,15,43700,34.32,Singapore1997,,"100,163,995,151",34779,G.I. Generation
+Singapore,1997,male,55-74 years,36,176100,20.44,Singapore1997,,"100,163,995,151",34779,Silent
+Singapore,1997,male,25-34 years,44,282000,15.6,Singapore1997,,"100,163,995,151",34779,Generation X
+Singapore,1997,male,35-54 years,74,495200,14.94,Singapore1997,,"100,163,995,151",34779,Boomers
+Singapore,1997,female,25-34 years,29,289500,10.02,Singapore1997,,"100,163,995,151",34779,Generation X
+Singapore,1997,female,55-74 years,18,186200,9.67,Singapore1997,,"100,163,995,151",34779,Silent
+Singapore,1997,female,35-54 years,34,485900,7,Singapore1997,,"100,163,995,151",34779,Boomers
+Singapore,1997,male,15-24 years,15,218600,6.86,Singapore1997,,"100,163,995,151",34779,Generation X
+Singapore,1997,female,15-24 years,10,211600,4.73,Singapore1997,,"100,163,995,151",34779,Generation X
+Singapore,1997,male,5-14 years,3,238600,1.26,Singapore1997,,"100,163,995,151",34779,Millenials
+Singapore,1997,female,5-14 years,1,223100,0.45,Singapore1997,,"100,163,995,151",34779,Millenials
+Singapore,1998,male,75+ years,20,30200,66.23,Singapore1998,,"85,707,636,233",29150,G.I. Generation
+Singapore,1998,female,75+ years,20,45000,44.44,Singapore1998,,"85,707,636,233",29150,G.I. Generation
+Singapore,1998,male,55-74 years,45,180700,24.9,Singapore1998,,"85,707,636,233",29150,Silent
+Singapore,1998,female,55-74 years,35,191000,18.32,Singapore1998,,"85,707,636,233",29150,Silent
+Singapore,1998,male,25-34 years,41,281300,14.58,Singapore1998,,"85,707,636,233",29150,Generation X
+Singapore,1998,male,35-54 years,69,515800,13.38,Singapore1998,,"85,707,636,233",29150,Boomers
+Singapore,1998,male,15-24 years,22,216100,10.18,Singapore1998,,"85,707,636,233",29150,Generation X
+Singapore,1998,female,25-34 years,24,291400,8.24,Singapore1998,,"85,707,636,233",29150,Generation X
+Singapore,1998,female,15-24 years,15,209400,7.16,Singapore1998,,"85,707,636,233",29150,Generation X
+Singapore,1998,female,35-54 years,34,507300,6.7,Singapore1998,,"85,707,636,233",29150,Boomers
+Singapore,1998,male,5-14 years,3,243800,1.23,Singapore1998,,"85,707,636,233",29150,Millenials
+Singapore,1998,female,5-14 years,0,228200,0,Singapore1998,,"85,707,636,233",29150,Millenials
+Singapore,1999,male,75+ years,21,31400,66.88,Singapore1999,,"86,283,126,844",28789,G.I. Generation
+Singapore,1999,male,55-74 years,43,186300,23.08,Singapore1999,,"86,283,126,844",28789,Silent
+Singapore,1999,female,75+ years,8,46100,17.35,Singapore1999,,"86,283,126,844",28789,G.I. Generation
+Singapore,1999,male,35-54 years,75,535500,14.01,Singapore1999,,"86,283,126,844",28789,Boomers
+Singapore,1999,male,25-34 years,31,277300,11.18,Singapore1999,,"86,283,126,844",28789,Generation X
+Singapore,1999,female,55-74 years,16,197700,8.09,Singapore1999,,"86,283,126,844",28789,Silent
+Singapore,1999,female,35-54 years,39,527100,7.4,Singapore1999,,"86,283,126,844",28789,Boomers
+Singapore,1999,male,15-24 years,15,214200,7,Singapore1999,,"86,283,126,844",28789,Generation X
+Singapore,1999,female,25-34 years,16,289800,5.52,Singapore1999,,"86,283,126,844",28789,Generation X
+Singapore,1999,female,15-24 years,8,207400,3.86,Singapore1999,,"86,283,126,844",28789,Generation X
+Singapore,1999,female,5-14 years,3,234400,1.28,Singapore1999,,"86,283,126,844",28789,Millenials
+Singapore,1999,male,5-14 years,2,249900,0.8,Singapore1999,,"86,283,126,844",28789,Millenials
+Singapore,2000,male,75+ years,16,32600,49.08,Singapore2000,0.819,"95,833,932,715",31446,G.I. Generation
+Singapore,2000,male,55-74 years,48,189200,25.37,Singapore2000,0.819,"95,833,932,715",31446,Silent
+Singapore,2000,female,75+ years,11,47400,23.21,Singapore2000,0.819,"95,833,932,715",31446,G.I. Generation
+Singapore,2000,male,35-54 years,87,555800,15.65,Singapore2000,0.819,"95,833,932,715",31446,Boomers
+Singapore,2000,male,25-34 years,34,271100,12.54,Singapore2000,0.819,"95,833,932,715",31446,Generation X
+Singapore,2000,female,35-54 years,44,548100,8.03,Singapore2000,0.819,"95,833,932,715",31446,Boomers
+Singapore,2000,female,55-74 years,16,201600,7.94,Singapore2000,0.819,"95,833,932,715",31446,Silent
+Singapore,2000,female,15-24 years,16,208300,7.68,Singapore2000,0.819,"95,833,932,715",31446,Generation X
+Singapore,2000,male,15-24 years,14,215200,6.51,Singapore2000,0.819,"95,833,932,715",31446,Generation X
+Singapore,2000,female,25-34 years,17,286400,5.94,Singapore2000,0.819,"95,833,932,715",31446,Generation X
+Singapore,2000,male,5-14 years,5,253800,1.97,Singapore2000,0.819,"95,833,932,715",31446,Millenials
+Singapore,2000,female,5-14 years,1,238100,0.42,Singapore2000,0.819,"95,833,932,715",31446,Millenials
+Singapore,2001,male,75+ years,18,34800,51.72,Singapore2001,,"89,286,208,629",28774,Silent
+Singapore,2001,female,75+ years,12,50200,23.9,Singapore2001,,"89,286,208,629",28774,Silent
+Singapore,2001,male,55-74 years,40,194800,20.53,Singapore2001,,"89,286,208,629",28774,Silent
+Singapore,2001,male,25-34 years,43,265800,16.18,Singapore2001,,"89,286,208,629",28774,Generation X
+Singapore,2001,male,35-54 years,65,573200,11.34,Singapore2001,,"89,286,208,629",28774,Boomers
+Singapore,2001,male,15-24 years,21,216300,9.71,Singapore2001,,"89,286,208,629",28774,Millenials
+Singapore,2001,female,55-74 years,20,207900,9.62,Singapore2001,,"89,286,208,629",28774,Silent
+Singapore,2001,female,35-54 years,44,566000,7.77,Singapore2001,,"89,286,208,629",28774,Boomers
+Singapore,2001,female,15-24 years,16,209200,7.65,Singapore2001,,"89,286,208,629",28774,Millenials
+Singapore,2001,female,25-34 years,21,283700,7.4,Singapore2001,,"89,286,208,629",28774,Generation X
+Singapore,2001,male,5-14 years,3,258300,1.16,Singapore2001,,"89,286,208,629",28774,Millenials
+Singapore,2001,female,5-14 years,2,242800,0.82,Singapore2001,,"89,286,208,629",28774,Millenials
+Singapore,2002,male,75+ years,19,37200,51.08,Singapore2002,,"91,941,192,896",29048,Silent
+Singapore,2002,female,75+ years,19,53600,35.45,Singapore2002,,"91,941,192,896",29048,Silent
+Singapore,2002,male,55-74 years,33,206500,15.98,Singapore2002,,"91,941,192,896",29048,Silent
+Singapore,2002,male,35-54 years,87,582400,14.94,Singapore2002,,"91,941,192,896",29048,Boomers
+Singapore,2002,male,25-34 years,38,265900,14.29,Singapore2002,,"91,941,192,896",29048,Generation X
+Singapore,2002,female,15-24 years,20,209600,9.54,Singapore2002,,"91,941,192,896",29048,Millenials
+Singapore,2002,female,35-54 years,52,576200,9.02,Singapore2002,,"91,941,192,896",29048,Boomers
+Singapore,2002,female,55-74 years,18,220400,8.17,Singapore2002,,"91,941,192,896",29048,Silent
+Singapore,2002,female,25-34 years,20,286100,6.99,Singapore2002,,"91,941,192,896",29048,Generation X
+Singapore,2002,male,15-24 years,15,216400,6.93,Singapore2002,,"91,941,192,896",29048,Millenials
+Singapore,2002,female,5-14 years,0,247700,0,Singapore2002,,"91,941,192,896",29048,Millenials
+Singapore,2002,male,5-14 years,0,263200,0,Singapore2002,,"91,941,192,896",29048,Millenials
+Singapore,2003,male,75+ years,22,39400,55.84,Singapore2003,,"97,001,377,569",30067,Silent
+Singapore,2003,female,75+ years,16,57000,28.07,Singapore2003,,"97,001,377,569",30067,Silent
+Singapore,2003,male,55-74 years,39,218800,17.82,Singapore2003,,"97,001,377,569",30067,Silent
+Singapore,2003,male,25-34 years,38,263800,14.4,Singapore2003,,"97,001,377,569",30067,Generation X
+Singapore,2003,male,35-54 years,76,592400,12.83,Singapore2003,,"97,001,377,569",30067,Boomers
+Singapore,2003,female,55-74 years,26,232800,11.17,Singapore2003,,"97,001,377,569",30067,Silent
+Singapore,2003,male,15-24 years,24,221500,10.84,Singapore2003,,"97,001,377,569",30067,Millenials
+Singapore,2003,female,35-54 years,42,586600,7.16,Singapore2003,,"97,001,377,569",30067,Boomers
+Singapore,2003,female,25-34 years,20,286600,6.98,Singapore2003,,"97,001,377,569",30067,Generation X
+Singapore,2003,female,15-24 years,13,214300,6.07,Singapore2003,,"97,001,377,569",30067,Millenials
+Singapore,2003,female,5-14 years,2,248900,0.8,Singapore2003,,"97,001,377,569",30067,Millenials
+Singapore,2003,male,5-14 years,2,264100,0.76,Singapore2003,,"97,001,377,569",30067,Millenials
+Singapore,2004,male,75+ years,24,42100,57.01,Singapore2004,,"114,188,557,567",34799,Silent
+Singapore,2004,female,75+ years,14,60900,22.99,Singapore2004,,"114,188,557,567",34799,Silent
+Singapore,2004,male,55-74 years,46,231800,19.84,Singapore2004,,"114,188,557,567",34799,Silent
+Singapore,2004,male,35-54 years,87,598400,14.54,Singapore2004,,"114,188,557,567",34799,Boomers
+Singapore,2004,female,55-74 years,32,246500,12.98,Singapore2004,,"114,188,557,567",34799,Silent
+Singapore,2004,male,25-34 years,34,263100,12.92,Singapore2004,,"114,188,557,567",34799,Generation X
+Singapore,2004,female,35-54 years,52,597700,8.7,Singapore2004,,"114,188,557,567",34799,Boomers
+Singapore,2004,female,25-34 years,18,287900,6.25,Singapore2004,,"114,188,557,567",34799,Generation X
+Singapore,2004,male,15-24 years,13,228400,5.69,Singapore2004,,"114,188,557,567",34799,Millenials
+Singapore,2004,female,15-24 years,10,220500,4.54,Singapore2004,,"114,188,557,567",34799,Millenials
+Singapore,2004,female,5-14 years,4,243800,1.64,Singapore2004,,"114,188,557,567",34799,Millenials
+Singapore,2004,male,5-14 years,1,260300,0.38,Singapore2004,,"114,188,557,567",34799,Millenials
+Singapore,2005,male,75+ years,32,44200,72.4,Singapore2005,0.841,"127,417,688,056",38122,Silent
+Singapore,2005,male,55-74 years,56,245000,22.86,Singapore2005,0.841,"127,417,688,056",38122,Silent
+Singapore,2005,female,75+ years,11,64200,17.13,Singapore2005,0.841,"127,417,688,056",38122,Silent
+Singapore,2005,male,35-54 years,99,605700,16.34,Singapore2005,0.841,"127,417,688,056",38122,Boomers
+Singapore,2005,male,25-34 years,37,265600,13.93,Singapore2005,0.841,"127,417,688,056",38122,Generation X
+Singapore,2005,female,55-74 years,27,259500,10.4,Singapore2005,0.841,"127,417,688,056",38122,Silent
+Singapore,2005,female,35-54 years,50,604300,8.27,Singapore2005,0.841,"127,417,688,056",38122,Boomers
+Singapore,2005,male,15-24 years,16,233900,6.84,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+Singapore,2005,female,15-24 years,13,225500,5.76,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+Singapore,2005,female,25-34 years,15,289600,5.18,Singapore2005,0.841,"127,417,688,056",38122,Generation X
+Singapore,2005,female,5-14 years,3,244900,1.22,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+Singapore,2005,male,5-14 years,0,260000,0,Singapore2005,0.841,"127,417,688,056",38122,Millenials
+Singapore,2006,male,75+ years,14,46700,29.98,Singapore2006,,"147,797,218,201",43318,Silent
+Singapore,2006,female,75+ years,19,67600,28.11,Singapore2006,,"147,797,218,201",43318,Silent
+Singapore,2006,male,55-74 years,58,258800,22.41,Singapore2006,,"147,797,218,201",43318,Silent
+Singapore,2006,male,35-54 years,118,615500,19.17,Singapore2006,,"147,797,218,201",43318,Boomers
+Singapore,2006,female,55-74 years,39,273400,14.26,Singapore2006,,"147,797,218,201",43318,Silent
+Singapore,2006,male,25-34 years,25,267200,9.36,Singapore2006,,"147,797,218,201",43318,Generation X
+Singapore,2006,female,35-54 years,55,616100,8.93,Singapore2006,,"147,797,218,201",43318,Boomers
+Singapore,2006,female,25-34 years,24,292800,8.2,Singapore2006,,"147,797,218,201",43318,Generation X
+Singapore,2006,male,15-24 years,15,240400,6.24,Singapore2006,,"147,797,218,201",43318,Millenials
+Singapore,2006,female,15-24 years,3,231800,1.29,Singapore2006,,"147,797,218,201",43318,Millenials
+Singapore,2006,female,5-14 years,1,243400,0.41,Singapore2006,,"147,797,218,201",43318,Millenials
+Singapore,2006,male,5-14 years,1,258200,0.39,Singapore2006,,"147,797,218,201",43318,Millenials
+Singapore,2007,male,75+ years,27,45000,60,Singapore2007,,"179,981,288,567",53098,Silent
+Singapore,2007,female,75+ years,17,68300,24.89,Singapore2007,,"179,981,288,567",53098,Silent
+Singapore,2007,male,55-74 years,41,267000,15.36,Singapore2007,,"179,981,288,567",53098,Silent
+Singapore,2007,female,55-74 years,40,281800,14.19,Singapore2007,,"179,981,288,567",53098,Silent
+Singapore,2007,male,35-54 years,77,609000,12.64,Singapore2007,,"179,981,288,567",53098,Boomers
+Singapore,2007,male,25-34 years,28,263500,10.63,Singapore2007,,"179,981,288,567",53098,Generation X
+Singapore,2007,male,15-24 years,24,242200,9.91,Singapore2007,,"179,981,288,567",53098,Millenials
+Singapore,2007,female,35-54 years,46,608800,7.56,Singapore2007,,"179,981,288,567",53098,Boomers
+Singapore,2007,female,25-34 years,18,285500,6.3,Singapore2007,,"179,981,288,567",53098,Generation X
+Singapore,2007,female,15-24 years,10,233600,4.28,Singapore2007,,"179,981,288,567",53098,Millenials
+Singapore,2007,female,5-14 years,0,235100,0,Singapore2007,,"179,981,288,567",53098,Generation Z
+Singapore,2007,male,5-14 years,0,249800,0,Singapore2007,,"179,981,288,567",53098,Generation Z
+Singapore,2008,male,75+ years,28,47500,58.95,Singapore2008,,"192,225,881,688",55735,Silent
+Singapore,2008,female,75+ years,13,71800,18.11,Singapore2008,,"192,225,881,688",55735,Silent
+Singapore,2008,male,55-74 years,49,282300,17.36,Singapore2008,,"192,225,881,688",55735,Silent
+Singapore,2008,male,35-54 years,93,615400,15.11,Singapore2008,,"192,225,881,688",55735,Boomers
+Singapore,2008,male,25-34 years,27,265900,10.15,Singapore2008,,"192,225,881,688",55735,Generation X
+Singapore,2008,female,55-74 years,29,296800,9.77,Singapore2008,,"192,225,881,688",55735,Silent
+Singapore,2008,female,35-54 years,45,616400,7.3,Singapore2008,,"192,225,881,688",55735,Boomers
+Singapore,2008,female,25-34 years,14,287100,4.88,Singapore2008,,"192,225,881,688",55735,Generation X
+Singapore,2008,female,15-24 years,11,240800,4.57,Singapore2008,,"192,225,881,688",55735,Millenials
+Singapore,2008,male,15-24 years,9,247500,3.64,Singapore2008,,"192,225,881,688",55735,Millenials
+Singapore,2008,male,5-14 years,1,245300,0.41,Singapore2008,,"192,225,881,688",55735,Generation Z
+Singapore,2008,female,5-14 years,0,232100,0,Singapore2008,,"192,225,881,688",55735,Generation Z
+Singapore,2009,male,75+ years,22,50400,43.65,Singapore2009,,"192,408,387,762",54413,Silent
+Singapore,2009,female,75+ years,18,75900,23.72,Singapore2009,,"192,408,387,762",54413,Silent
+Singapore,2009,male,55-74 years,50,299900,16.67,Singapore2009,,"192,408,387,762",54413,Silent
+Singapore,2009,male,35-54 years,99,623400,15.88,Singapore2009,,"192,408,387,762",54413,Boomers
+Singapore,2009,male,25-34 years,41,274700,14.93,Singapore2009,,"192,408,387,762",54413,Generation X
+Singapore,2009,female,55-74 years,33,313500,10.53,Singapore2009,,"192,408,387,762",54413,Silent
+Singapore,2009,male,15-24 years,21,254400,8.25,Singapore2009,,"192,408,387,762",54413,Millenials
+Singapore,2009,female,35-54 years,40,626800,6.38,Singapore2009,,"192,408,387,762",54413,Boomers
+Singapore,2009,female,15-24 years,11,250100,4.4,Singapore2009,,"192,408,387,762",54413,Millenials
+Singapore,2009,female,25-34 years,9,296900,3.03,Singapore2009,,"192,408,387,762",54413,Generation X
+Singapore,2009,female,5-14 years,3,228900,1.31,Singapore2009,,"192,408,387,762",54413,Generation Z
+Singapore,2009,male,5-14 years,2,241200,0.83,Singapore2009,,"192,408,387,762",54413,Generation Z
+Singapore,2010,male,75+ years,27,53300,50.66,Singapore2010,0.897,"236,421,782,178",66099,Silent
+Singapore,2010,male,55-74 years,48,315800,15.2,Singapore2010,0.897,"236,421,782,178",66099,Silent
+Singapore,2010,male,35-54 years,94,625200,15.04,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+Singapore,2010,female,75+ years,12,80900,14.83,Singapore2010,0.897,"236,421,782,178",66099,Silent
+Singapore,2010,female,55-74 years,28,329000,8.51,Singapore2010,0.897,"236,421,782,178",66099,Silent
+Singapore,2010,male,25-34 years,20,274300,7.29,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+Singapore,2010,female,35-54 years,34,630600,5.39,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+Singapore,2010,female,15-24 years,13,252900,5.14,Singapore2010,0.897,"236,421,782,178",66099,Millenials
+Singapore,2010,female,25-34 years,12,296900,4.04,Singapore2010,0.897,"236,421,782,178",66099,Generation X
+Singapore,2010,male,15-24 years,7,257900,2.71,Singapore2010,0.897,"236,421,782,178",66099,Millenials
+Singapore,2010,male,5-14 years,1,235500,0.42,Singapore2010,0.897,"236,421,782,178",66099,Generation Z
+Singapore,2010,female,5-14 years,0,224500,0,Singapore2010,0.897,"236,421,782,178",66099,Generation Z
+Singapore,2011,male,75+ years,18,55900,32.2,Singapore2011,0.903,"275,966,926,379",76638,Silent
+Singapore,2011,male,55-74 years,68,333700,20.38,Singapore2011,0.903,"275,966,926,379",76638,Boomers
+Singapore,2011,female,75+ years,12,84300,14.23,Singapore2011,0.903,"275,966,926,379",76638,Silent
+Singapore,2011,male,35-54 years,81,623200,13,Singapore2011,0.903,"275,966,926,379",76638,Generation X
+Singapore,2011,female,55-74 years,42,347600,12.08,Singapore2011,0.903,"275,966,926,379",76638,Boomers
+Singapore,2011,male,25-34 years,18,269000,6.69,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+Singapore,2011,female,35-54 years,35,631700,5.54,Singapore2011,0.903,"275,966,926,379",76638,Generation X
+Singapore,2011,female,15-24 years,14,255000,5.49,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+Singapore,2011,male,15-24 years,12,260800,4.6,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+Singapore,2011,female,25-34 years,8,291100,2.75,Singapore2011,0.903,"275,966,926,379",76638,Millenials
+Singapore,2011,female,5-14 years,0,219200,0,Singapore2011,0.903,"275,966,926,379",76638,Generation Z
+Singapore,2011,male,5-14 years,0,229400,0,Singapore2011,0.903,"275,966,926,379",76638,Generation Z
+Singapore,2012,male,75+ years,21,58300,36.02,Singapore2012,0.905,"290,673,681,684",80040,Silent
+Singapore,2012,male,55-74 years,91,352500,25.82,Singapore2012,0.905,"290,673,681,684",80040,Boomers
+Singapore,2012,female,75+ years,15,87100,17.22,Singapore2012,0.905,"290,673,681,684",80040,Silent
+Singapore,2012,male,35-54 years,89,621200,14.33,Singapore2012,0.905,"290,673,681,684",80040,Generation X
+Singapore,2012,female,35-54 years,66,632900,10.43,Singapore2012,0.905,"290,673,681,684",80040,Generation X
+Singapore,2012,female,55-74 years,35,366600,9.55,Singapore2012,0.905,"290,673,681,684",80040,Boomers
+Singapore,2012,male,25-34 years,22,263800,8.34,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+Singapore,2012,male,15-24 years,19,264800,7.18,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+Singapore,2012,female,15-24 years,17,258600,6.57,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+Singapore,2012,female,25-34 years,15,286200,5.24,Singapore2012,0.905,"290,673,681,684",80040,Millenials
+Singapore,2012,female,5-14 years,1,214900,0.47,Singapore2012,0.905,"290,673,681,684",80040,Generation Z
+Singapore,2012,male,5-14 years,1,224700,0.45,Singapore2012,0.905,"290,673,681,684",80040,Generation Z
+Singapore,2013,male,75+ years,25,61658,40.55,Singapore2013,0.909,"304,454,327,499",83151,Silent
+Singapore,2013,male,55-74 years,84,370242,22.69,Singapore2013,0.909,"304,454,327,499",83151,Boomers
+Singapore,2013,female,75+ years,14,91216,15.35,Singapore2013,0.909,"304,454,327,499",83151,Silent
+Singapore,2013,male,35-54 years,77,616200,12.5,Singapore2013,0.909,"304,454,327,499",83151,Generation X
+Singapore,2013,male,15-24 years,30,264023,11.36,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+Singapore,2013,male,25-34 years,29,265275,10.93,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+Singapore,2013,female,55-74 years,30,384544,7.8,Singapore2013,0.909,"304,454,327,499",83151,Boomers
+Singapore,2013,female,35-54 years,40,631208,6.34,Singapore2013,0.909,"304,454,327,499",83151,Generation X
+Singapore,2013,female,15-24 years,15,257932,5.82,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+Singapore,2013,female,25-34 years,13,287210,4.53,Singapore2013,0.909,"304,454,327,499",83151,Millenials
+Singapore,2013,female,5-14 years,0,211362,0,Singapore2013,0.909,"304,454,327,499",83151,Generation Z
+Singapore,2013,male,5-14 years,0,220586,0,Singapore2013,0.909,"304,454,327,499",83151,Generation Z
+Singapore,2014,male,75+ years,29,66198,43.81,Singapore2014,0.912,"311,539,499,645",84442,Silent
+Singapore,2014,male,55-74 years,97,387256,25.05,Singapore2014,0.912,"311,539,499,645",84442,Boomers
+Singapore,2014,male,35-54 years,73,611207,11.94,Singapore2014,0.912,"311,539,499,645",84442,Generation X
+Singapore,2014,male,25-34 years,30,268258,11.18,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+Singapore,2014,female,75+ years,10,97390,10.27,Singapore2014,0.912,"311,539,499,645",84442,Silent
+Singapore,2014,female,55-74 years,34,400651,8.49,Singapore2014,0.912,"311,539,499,645",84442,Boomers
+Singapore,2014,male,15-24 years,20,259416,7.71,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+Singapore,2014,female,35-54 years,46,630881,7.29,Singapore2014,0.912,"311,539,499,645",84442,Generation X
+Singapore,2014,female,25-34 years,9,289688,3.11,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+Singapore,2014,female,15-24 years,5,251839,1.99,Singapore2014,0.912,"311,539,499,645",84442,Millenials
+Singapore,2014,female,5-14 years,1,209039,0.48,Singapore2014,0.912,"311,539,499,645",84442,Generation Z
+Singapore,2014,male,5-14 years,1,217547,0.46,Singapore2014,0.912,"311,539,499,645",84442,Generation Z
+Singapore,2015,male,75+ years,15,71060,21.11,Singapore2015,,"304,097,759,674",81766,Silent
+Singapore,2015,male,55-74 years,73,403996,18.07,Singapore2015,,"304,097,759,674",81766,Boomers
+Singapore,2015,male,35-54 years,79,606327,13.03,Singapore2015,,"304,097,759,674",81766,Generation X
+Singapore,2015,female,75+ years,13,103599,12.55,Singapore2015,,"304,097,759,674",81766,Silent
+Singapore,2015,male,25-34 years,30,270351,11.1,Singapore2015,,"304,097,759,674",81766,Millenials
+Singapore,2015,male,15-24 years,19,257780,7.37,Singapore2015,,"304,097,759,674",81766,Millenials
+Singapore,2015,female,55-74 years,28,416616,6.72,Singapore2015,,"304,097,759,674",81766,Boomers
+Singapore,2015,female,25-34 years,18,291298,6.18,Singapore2015,,"304,097,759,674",81766,Millenials
+Singapore,2015,female,15-24 years,15,249249,6.02,Singapore2015,,"304,097,759,674",81766,Millenials
+Singapore,2015,female,35-54 years,36,629999,5.71,Singapore2015,,"304,097,759,674",81766,Generation X
+Singapore,2015,male,5-14 years,2,213262,0.94,Singapore2015,,"304,097,759,674",81766,Generation Z
+Singapore,2015,female,5-14 years,1,205578,0.49,Singapore2015,,"304,097,759,674",81766,Generation Z
+Thailand,1985,male,25-34 years,453,4104134,11.04,Thailand1985,0.539,"38,900,692,712",840,Boomers
+Thailand,1985,male,55-74 years,211,1912525,11.03,Thailand1985,0.539,"38,900,692,712",840,G.I. Generation
+Thailand,1985,female,15-24 years,593,5558670,10.67,Thailand1985,0.539,"38,900,692,712",840,Generation X
+Thailand,1985,male,15-24 years,573,5671609,10.1,Thailand1985,0.539,"38,900,692,712",840,Generation X
+Thailand,1985,male,75+ years,28,289378,9.68,Thailand1985,0.539,"38,900,692,712",840,G.I. Generation
+Thailand,1985,male,35-54 years,448,4748330,9.43,Thailand1985,0.539,"38,900,692,712",840,Silent
+Thailand,1985,female,25-34 years,254,4232095,6,Thailand1985,0.539,"38,900,692,712",840,Boomers
+Thailand,1985,female,35-54 years,236,4923818,4.79,Thailand1985,0.539,"38,900,692,712",840,Silent
+Thailand,1985,female,55-74 years,94,2055721,4.57,Thailand1985,0.539,"38,900,692,712",840,G.I. Generation
+Thailand,1985,female,75+ years,17,424010,4.01,Thailand1985,0.539,"38,900,692,712",840,G.I. Generation
+Thailand,1985,female,5-14 years,46,6090740,0.76,Thailand1985,0.539,"38,900,692,712",840,Generation X
+Thailand,1985,male,5-14 years,29,6292413,0.46,Thailand1985,0.539,"38,900,692,712",840,Generation X
+Thailand,1986,male,55-74 years,214,2003202,10.68,Thailand1986,,"43,096,746,122",911,G.I. Generation
+Thailand,1986,male,25-34 years,449,4245701,10.58,Thailand1986,,"43,096,746,122",911,Boomers
+Thailand,1986,male,35-54 years,495,4920429,10.06,Thailand1986,,"43,096,746,122",911,Silent
+Thailand,1986,male,15-24 years,555,5782196,9.6,Thailand1986,,"43,096,746,122",911,Generation X
+Thailand,1986,female,15-24 years,485,5664614,8.56,Thailand1986,,"43,096,746,122",911,Generation X
+Thailand,1986,male,75+ years,22,304445,7.23,Thailand1986,,"43,096,746,122",911,G.I. Generation
+Thailand,1986,female,25-34 years,229,4396441,5.21,Thailand1986,,"43,096,746,122",911,Boomers
+Thailand,1986,female,35-54 years,204,5141949,3.97,Thailand1986,,"43,096,746,122",911,Silent
+Thailand,1986,female,55-74 years,66,2156904,3.06,Thailand1986,,"43,096,746,122",911,G.I. Generation
+Thailand,1986,female,75+ years,8,443980,1.8,Thailand1986,,"43,096,746,122",911,G.I. Generation
+Thailand,1986,male,5-14 years,39,6233965,0.63,Thailand1986,,"43,096,746,122",911,Generation X
+Thailand,1986,female,5-14 years,32,6037639,0.53,Thailand1986,,"43,096,746,122",911,Generation X
+Thailand,1987,male,55-74 years,239,2100709,11.38,Thailand1987,,"50,535,438,696",1045,G.I. Generation
+Thailand,1987,male,75+ years,36,319010,11.28,Thailand1987,,"50,535,438,696",1045,G.I. Generation
+Thailand,1987,male,15-24 years,621,5884434,10.55,Thailand1987,,"50,535,438,696",1045,Generation X
+Thailand,1987,male,25-34 years,454,4380094,10.37,Thailand1987,,"50,535,438,696",1045,Boomers
+Thailand,1987,female,15-24 years,531,5761312,9.22,Thailand1987,,"50,535,438,696",1045,Generation X
+Thailand,1987,male,35-54 years,458,5107474,8.97,Thailand1987,,"50,535,438,696",1045,Silent
+Thailand,1987,female,25-34 years,265,4549086,5.83,Thailand1987,,"50,535,438,696",1045,Boomers
+Thailand,1987,female,75+ years,20,463349,4.32,Thailand1987,,"50,535,438,696",1045,G.I. Generation
+Thailand,1987,female,55-74 years,96,2269321,4.23,Thailand1987,,"50,535,438,696",1045,G.I. Generation
+Thailand,1987,female,35-54 years,227,5381053,4.22,Thailand1987,,"50,535,438,696",1045,Silent
+Thailand,1987,male,5-14 years,47,6175269,0.76,Thailand1987,,"50,535,438,696",1045,Generation X
+Thailand,1987,female,5-14 years,41,5985299,0.69,Thailand1987,,"50,535,438,696",1045,Generation X
+Thailand,1990,male,75+ years,55,355816,15.46,Thailand1990,0.572,"85,343,063,966",1666,G.I. Generation
+Thailand,1990,male,25-34 years,622,4749653,13.1,Thailand1990,0.572,"85,343,063,966",1666,Boomers
+Thailand,1990,male,15-24 years,753,6077084,12.39,Thailand1990,0.572,"85,343,063,966",1666,Generation X
+Thailand,1990,male,55-74 years,293,2438191,12.02,Thailand1990,0.572,"85,343,063,966",1666,G.I. Generation
+Thailand,1990,male,35-54 years,665,5708264,11.65,Thailand1990,0.572,"85,343,063,966",1666,Silent
+Thailand,1990,female,15-24 years,511,5917572,8.64,Thailand1990,0.572,"85,343,063,966",1666,Generation X
+Thailand,1990,female,25-34 years,339,4920571,6.89,Thailand1990,0.572,"85,343,063,966",1666,Boomers
+Thailand,1990,female,75+ years,29,515149,5.63,Thailand1990,0.572,"85,343,063,966",1666,G.I. Generation
+Thailand,1990,female,35-54 years,290,6146476,4.72,Thailand1990,0.572,"85,343,063,966",1666,Silent
+Thailand,1990,female,55-74 years,102,2660151,3.83,Thailand1990,0.572,"85,343,063,966",1666,G.I. Generation
+Thailand,1990,male,5-14 years,51,5967616,0.85,Thailand1990,0.572,"85,343,063,966",1666,Generation X
+Thailand,1990,female,5-14 years,43,5772125,0.74,Thailand1990,0.572,"85,343,063,966",1666,Generation X
+Thailand,1991,male,25-34 years,643,4868128,13.21,Thailand1991,,"98,234,695,722",1891,Boomers
+Thailand,1991,male,15-24 years,768,6087070,12.62,Thailand1991,,"98,234,695,722",1891,Generation X
+Thailand,1991,male,75+ years,44,371586,11.84,Thailand1991,,"98,234,695,722",1891,G.I. Generation
+Thailand,1991,male,55-74 years,295,2536730,11.63,Thailand1991,,"98,234,695,722",1891,Silent
+Thailand,1991,male,35-54 years,636,5900518,10.78,Thailand1991,,"98,234,695,722",1891,Boomers
+Thailand,1991,female,15-24 years,460,5931431,7.76,Thailand1991,,"98,234,695,722",1891,Generation X
+Thailand,1991,female,25-34 years,277,4997931,5.54,Thailand1991,,"98,234,695,722",1891,Boomers
+Thailand,1991,female,55-74 years,118,2781252,4.24,Thailand1991,,"98,234,695,722",1891,Silent
+Thailand,1991,female,35-54 years,268,6340273,4.23,Thailand1991,,"98,234,695,722",1891,Boomers
+Thailand,1991,female,75+ years,22,532918,4.13,Thailand1991,,"98,234,695,722",1891,G.I. Generation
+Thailand,1991,male,5-14 years,16,5895849,0.27,Thailand1991,,"98,234,695,722",1891,Millenials
+Thailand,1991,female,5-14 years,12,5704007,0.21,Thailand1991,,"98,234,695,722",1891,Millenials
+Thailand,1992,male,25-34 years,641,4975370,12.88,Thailand1992,,"111,452,869,378",2120,Boomers
+Thailand,1992,male,75+ years,46,385458,11.93,Thailand1992,,"111,452,869,378",2120,G.I. Generation
+Thailand,1992,male,15-24 years,715,6074765,11.77,Thailand1992,,"111,452,869,378",2120,Generation X
+Thailand,1992,male,35-54 years,672,6094652,11.03,Thailand1992,,"111,452,869,378",2120,Boomers
+Thailand,1992,male,55-74 years,274,2638704,10.38,Thailand1992,,"111,452,869,378",2120,Silent
+Thailand,1992,female,15-24 years,475,5920487,8.02,Thailand1992,,"111,452,869,378",2120,Generation X
+Thailand,1992,female,25-34 years,322,5061899,6.36,Thailand1992,,"111,452,869,378",2120,Boomers
+Thailand,1992,female,35-54 years,283,6521746,4.34,Thailand1992,,"111,452,869,378",2120,Boomers
+Thailand,1992,female,75+ years,17,548576,3.1,Thailand1992,,"111,452,869,378",2120,G.I. Generation
+Thailand,1992,female,55-74 years,86,2905183,2.96,Thailand1992,,"111,452,869,378",2120,Silent
+Thailand,1992,male,5-14 years,11,5819120,0.19,Thailand1992,,"111,452,869,378",2120,Millenials
+Thailand,1992,female,5-14 years,8,5624480,0.14,Thailand1992,,"111,452,869,378",2120,Millenials
+Thailand,1994,male,75+ years,35,368000,9.51,Thailand1994,,"146,683,499,006",2784,G.I. Generation
+Thailand,1994,male,25-34 years,457,5433000,8.41,Thailand1994,,"146,683,499,006",2784,Boomers
+Thailand,1994,male,55-74 years,205,2446000,8.38,Thailand1994,,"146,683,499,006",2784,Silent
+Thailand,1994,male,15-24 years,483,6181000,7.81,Thailand1994,,"146,683,499,006",2784,Generation X
+Thailand,1994,male,35-54 years,431,6064000,7.11,Thailand1994,,"146,683,499,006",2784,Boomers
+Thailand,1994,female,15-24 years,255,5973000,4.27,Thailand1994,,"146,683,499,006",2784,Generation X
+Thailand,1994,female,35-54 years,204,6170000,3.31,Thailand1994,,"146,683,499,006",2784,Boomers
+Thailand,1994,female,25-34 years,152,5290000,2.87,Thailand1994,,"146,683,499,006",2784,Boomers
+Thailand,1994,female,55-74 years,72,2777000,2.59,Thailand1994,,"146,683,499,006",2784,Silent
+Thailand,1994,female,75+ years,11,559000,1.97,Thailand1994,,"146,683,499,006",2784,G.I. Generation
+Thailand,1994,female,5-14 years,1,5609000,0.02,Thailand1994,,"146,683,499,006",2784,Millenials
+Thailand,1994,male,5-14 years,1,5821000,0.02,Thailand1994,,"146,683,499,006",2784,Millenials
+Thailand,1995,male,25-34 years,931,5235459,17.78,Thailand1995,0.611,"169,278,552,851",3114,Generation X
+Thailand,1995,male,15-24 years,847,5996449,14.13,Thailand1995,0.611,"169,278,552,851",3114,Generation X
+Thailand,1995,male,35-54 years,883,6725727,13.13,Thailand1995,0.611,"169,278,552,851",3114,Boomers
+Thailand,1995,male,75+ years,49,425976,11.5,Thailand1995,0.611,"169,278,552,851",3114,G.I. Generation
+Thailand,1995,male,55-74 years,334,2948209,11.33,Thailand1995,0.611,"169,278,552,851",3114,Silent
+Thailand,1995,female,15-24 years,362,5852275,6.19,Thailand1995,0.611,"169,278,552,851",3114,Generation X
+Thailand,1995,female,25-34 years,287,5230422,5.49,Thailand1995,0.611,"169,278,552,851",3114,Generation X
+Thailand,1995,female,35-54 years,309,7081475,4.36,Thailand1995,0.611,"169,278,552,851",3114,Boomers
+Thailand,1995,female,75+ years,25,597697,4.18,Thailand1995,0.611,"169,278,552,851",3114,G.I. Generation
+Thailand,1995,female,55-74 years,120,3284191,3.65,Thailand1995,0.611,"169,278,552,851",3114,Silent
+Thailand,1995,male,5-14 years,56,5592494,1,Thailand1995,0.611,"169,278,552,851",3114,Millenials
+Thailand,1995,female,5-14 years,42,5395683,0.78,Thailand1995,0.611,"169,278,552,851",3114,Millenials
+Thailand,1996,male,25-34 years,1040,5350491,19.44,Thailand1996,,"183,035,154,107",3324,Generation X
+Thailand,1996,male,15-24 years,988,5872928,16.82,Thailand1996,,"183,035,154,107",3324,Generation X
+Thailand,1996,male,35-54 years,880,7038730,12.5,Thailand1996,,"183,035,154,107",3324,Boomers
+Thailand,1996,male,55-74 years,349,3033530,11.5,Thailand1996,,"183,035,154,107",3324,Silent
+Thailand,1996,male,75+ years,43,450130,9.55,Thailand1996,,"183,035,154,107",3324,G.I. Generation
+Thailand,1996,female,25-34 years,321,5387825,5.96,Thailand1996,,"183,035,154,107",3324,Generation X
+Thailand,1996,female,15-24 years,341,5739023,5.94,Thailand1996,,"183,035,154,107",3324,Generation X
+Thailand,1996,female,35-54 years,335,7377294,4.54,Thailand1996,,"183,035,154,107",3324,Boomers
+Thailand,1996,female,55-74 years,127,3384108,3.75,Thailand1996,,"183,035,154,107",3324,Silent
+Thailand,1996,female,75+ years,19,623543,3.05,Thailand1996,,"183,035,154,107",3324,G.I. Generation
+Thailand,1996,female,5-14 years,0,5304296,0,Thailand1996,,"183,035,154,107",3324,Millenials
+Thailand,1996,male,5-14 years,0,5508805,0,Thailand1996,,"183,035,154,107",3324,Millenials
+Thailand,1997,male,25-34 years,1018,5434836,18.73,Thailand1997,,"150,180,268,649",2689,Generation X
+Thailand,1997,male,15-24 years,873,5753768,15.17,Thailand1997,,"150,180,268,649",2689,Generation X
+Thailand,1997,male,35-54 years,946,7383107,12.81,Thailand1997,,"150,180,268,649",2689,Boomers
+Thailand,1997,male,75+ years,53,474539,11.17,Thailand1997,,"150,180,268,649",2689,G.I. Generation
+Thailand,1997,male,55-74 years,306,3119739,9.81,Thailand1997,,"150,180,268,649",2689,Silent
+Thailand,1997,female,15-24 years,268,5622677,4.77,Thailand1997,,"150,180,268,649",2689,Generation X
+Thailand,1997,female,25-34 years,237,5526117,4.29,Thailand1997,,"150,180,268,649",2689,Generation X
+Thailand,1997,female,35-54 years,318,7717870,4.12,Thailand1997,,"150,180,268,649",2689,Boomers
+Thailand,1997,female,55-74 years,117,3488033,3.35,Thailand1997,,"150,180,268,649",2689,Silent
+Thailand,1997,female,75+ years,14,650823,2.15,Thailand1997,,"150,180,268,649",2689,G.I. Generation
+Thailand,1997,female,5-14 years,0,5240629,0,Thailand1997,,"150,180,268,649",2689,Millenials
+Thailand,1997,male,5-14 years,0,5446950,0,Thailand1997,,"150,180,268,649",2689,Millenials
+Thailand,1998,male,25-34 years,1222,5480327,22.3,Thailand1998,,"113,675,706,127",2005,Generation X
+Thailand,1998,male,15-24 years,990,5647183,17.53,Thailand1998,,"113,675,706,127",2005,Generation X
+Thailand,1998,male,35-54 years,1127,7751471,14.54,Thailand1998,,"113,675,706,127",2005,Boomers
+Thailand,1998,male,55-74 years,419,3207588,13.06,Thailand1998,,"113,675,706,127",2005,Silent
+Thailand,1998,male,75+ years,46,500114,9.2,Thailand1998,,"113,675,706,127",2005,G.I. Generation
+Thailand,1998,female,15-24 years,304,5512158,5.52,Thailand1998,,"113,675,706,127",2005,Generation X
+Thailand,1998,female,25-34 years,286,5630176,5.08,Thailand1998,,"113,675,706,127",2005,Generation X
+Thailand,1998,female,35-54 years,343,8095997,4.24,Thailand1998,,"113,675,706,127",2005,Boomers
+Thailand,1998,female,55-74 years,142,3595775,3.95,Thailand1998,,"113,675,706,127",2005,Silent
+Thailand,1998,female,75+ years,20,680581,2.94,Thailand1998,,"113,675,706,127",2005,G.I. Generation
+Thailand,1998,male,5-14 years,38,5397792,0.7,Thailand1998,,"113,675,706,127",2005,Millenials
+Thailand,1998,female,5-14 years,26,5192621,0.5,Thailand1998,,"113,675,706,127",2005,Millenials
+Thailand,1999,male,25-34 years,1272,5479479,23.21,Thailand1999,,"126,668,932,160",2203,Generation X
+Thailand,1999,male,15-24 years,983,5554216,17.7,Thailand1999,,"126,668,932,160",2203,Generation X
+Thailand,1999,male,35-54 years,1234,8133153,15.17,Thailand1999,,"126,668,932,160",2203,Boomers
+Thailand,1999,male,55-74 years,469,3298897,14.22,Thailand1999,,"126,668,932,160",2203,Silent
+Thailand,1999,male,75+ years,72,527861,13.64,Thailand1999,,"126,668,932,160",2203,G.I. Generation
+Thailand,1999,female,25-34 years,324,5683342,5.7,Thailand1999,,"126,668,932,160",2203,Generation X
+Thailand,1999,female,15-24 years,283,5409200,5.23,Thailand1999,,"126,668,932,160",2203,Generation X
+Thailand,1999,female,55-74 years,174,3706771,4.69,Thailand1999,,"126,668,932,160",2203,Silent
+Thailand,1999,female,35-54 years,380,8500029,4.47,Thailand1999,,"126,668,932,160",2203,Boomers
+Thailand,1999,female,75+ years,28,713838,3.92,Thailand1999,,"126,668,932,160",2203,G.I. Generation
+Thailand,1999,male,5-14 years,38,5352827,0.71,Thailand1999,,"126,668,932,160",2203,Millenials
+Thailand,1999,female,5-14 years,19,5148247,0.37,Thailand1999,,"126,668,932,160",2203,Millenials
+Thailand,2000,male,25-34 years,1284,5430800,23.64,Thailand2000,0.648,"126,392,308,498",2169,Generation X
+Thailand,2000,male,15-24 years,961,5473800,17.56,Thailand2000,0.648,"126,392,308,498",2169,Generation X
+Thailand,2000,male,35-54 years,1263,8517696,14.83,Thailand2000,0.648,"126,392,308,498",2169,Boomers
+Thailand,2000,male,55-74 years,454,3396287,13.37,Thailand2000,0.648,"126,392,308,498",2169,Silent
+Thailand,2000,male,75+ years,71,558173,12.72,Thailand2000,0.648,"126,392,308,498",2169,G.I. Generation
+Thailand,2000,female,75+ years,43,751074,5.73,Thailand2000,0.648,"126,392,308,498",2169,G.I. Generation
+Thailand,2000,female,35-54 years,444,8919470,4.98,Thailand2000,0.648,"126,392,308,498",2169,Boomers
+Thailand,2000,female,15-24 years,248,5314448,4.67,Thailand2000,0.648,"126,392,308,498",2169,Generation X
+Thailand,2000,female,25-34 years,261,5675628,4.6,Thailand2000,0.648,"126,392,308,498",2169,Generation X
+Thailand,2000,female,55-74 years,153,3820685,4,Thailand2000,0.648,"126,392,308,498",2169,Silent
+Thailand,2000,female,5-14 years,0,5098737,0,Thailand2000,0.648,"126,392,308,498",2169,Millenials
+Thailand,2000,male,5-14 years,0,5305337,0,Thailand2000,0.648,"126,392,308,498",2169,Millenials
+Thailand,2002,male,25-34 years,1063,5791577,18.35,Thailand2002,,"134,300,851,255",2305,Generation X
+Thailand,2002,male,75+ years,99,613130,16.15,Thailand2002,,"134,300,851,255",2305,Silent
+Thailand,2002,male,55-74 years,522,3362623,15.52,Thailand2002,,"134,300,851,255",2305,Silent
+Thailand,2002,male,35-54 years,1252,8581154,14.59,Thailand2002,,"134,300,851,255",2305,Boomers
+Thailand,2002,male,15-24 years,743,5384313,13.8,Thailand2002,,"134,300,851,255",2305,Millenials
+Thailand,2002,female,35-54 years,456,8981392,5.08,Thailand2002,,"134,300,851,255",2305,Boomers
+Thailand,2002,female,75+ years,43,866092,4.96,Thailand2002,,"134,300,851,255",2305,Silent
+Thailand,2002,female,25-34 years,287,5812384,4.94,Thailand2002,,"134,300,851,255",2305,Generation X
+Thailand,2002,female,55-74 years,183,3816883,4.79,Thailand2002,,"134,300,851,255",2305,Silent
+Thailand,2002,female,15-24 years,199,5194271,3.83,Thailand2002,,"134,300,851,255",2305,Millenials
+Thailand,2002,male,5-14 years,33,5077442,0.65,Thailand2002,,"134,300,851,255",2305,Millenials
+Thailand,2002,female,5-14 years,22,4782128,0.46,Thailand2002,,"134,300,851,255",2305,Millenials
+Thailand,2003,male,25-34 years,912,5433433,16.78,Thailand2003,,"152,280,653,544",2531,Generation X
+Thailand,2003,male,55-74 years,531,3697698,14.36,Thailand2003,,"152,280,653,544",2531,Silent
+Thailand,2003,male,35-54 years,1277,9254313,13.8,Thailand2003,,"152,280,653,544",2531,Boomers
+Thailand,2003,male,75+ years,93,680116,13.67,Thailand2003,,"152,280,653,544",2531,Silent
+Thailand,2003,male,15-24 years,579,5371988,10.78,Thailand2003,,"152,280,653,544",2531,Millenials
+Thailand,2003,female,75+ years,41,894196,4.59,Thailand2003,,"152,280,653,544",2531,Silent
+Thailand,2003,female,25-34 years,248,5596786,4.43,Thailand2003,,"152,280,653,544",2531,Generation X
+Thailand,2003,female,55-74 years,183,4180149,4.38,Thailand2003,,"152,280,653,544",2531,Silent
+Thailand,2003,female,35-54 years,394,9801993,4.02,Thailand2003,,"152,280,653,544",2531,Boomers
+Thailand,2003,female,15-24 years,177,5249392,3.37,Thailand2003,,"152,280,653,544",2531,Millenials
+Thailand,2003,male,5-14 years,33,5101537,0.65,Thailand2003,,"152,280,653,544",2531,Millenials
+Thailand,2003,female,5-14 years,16,4897350,0.33,Thailand2003,,"152,280,653,544",2531,Millenials
+Thailand,2004,male,25-34 years,915,5415213,16.9,Thailand2004,,"172,895,476,153",2849,Generation X
+Thailand,2004,male,35-54 years,1251,9483233,13.19,Thailand2004,,"172,895,476,153",2849,Boomers
+Thailand,2004,male,75+ years,93,719132,12.93,Thailand2004,,"172,895,476,153",2849,Silent
+Thailand,2004,male,55-74 years,491,3818852,12.86,Thailand2004,,"172,895,476,153",2849,Silent
+Thailand,2004,male,15-24 years,486,5311644,9.15,Thailand2004,,"172,895,476,153",2849,Millenials
+Thailand,2004,female,75+ years,46,944827,4.87,Thailand2004,,"172,895,476,153",2849,Silent
+Thailand,2004,female,55-74 years,190,4322098,4.4,Thailand2004,,"172,895,476,153",2849,Silent
+Thailand,2004,female,35-54 years,413,10068026,4.1,Thailand2004,,"172,895,476,153",2849,Boomers
+Thailand,2004,female,25-34 years,220,5553004,3.96,Thailand2004,,"172,895,476,153",2849,Generation X
+Thailand,2004,female,15-24 years,162,5201780,3.11,Thailand2004,,"172,895,476,153",2849,Millenials
+Thailand,2004,male,5-14 years,17,5028787,0.34,Thailand2004,,"172,895,476,153",2849,Millenials
+Thailand,2004,female,5-14 years,12,4819777,0.25,Thailand2004,,"172,895,476,153",2849,Millenials
+Thailand,2005,male,25-34 years,838,5394031,15.54,Thailand2005,0.684,"189,318,499,954",3094,Generation X
+Thailand,2005,male,75+ years,94,756122,12.43,Thailand2005,0.684,"189,318,499,954",3094,Silent
+Thailand,2005,male,55-74 years,486,3955327,12.29,Thailand2005,0.684,"189,318,499,954",3094,Silent
+Thailand,2005,male,35-54 years,1128,9695484,11.63,Thailand2005,0.684,"189,318,499,954",3094,Boomers
+Thailand,2005,male,15-24 years,458,5246514,8.73,Thailand2005,0.684,"189,318,499,954",3094,Millenials
+Thailand,2005,female,55-74 years,175,4480508,3.91,Thailand2005,0.684,"189,318,499,954",3094,Silent
+Thailand,2005,female,35-54 years,383,10311164,3.71,Thailand2005,0.684,"189,318,499,954",3094,Boomers
+Thailand,2005,female,25-34 years,187,5511934,3.39,Thailand2005,0.684,"189,318,499,954",3094,Generation X
+Thailand,2005,female,75+ years,33,996752,3.31,Thailand2005,0.684,"189,318,499,954",3094,Silent
+Thailand,2005,female,15-24 years,117,5146603,2.27,Thailand2005,0.684,"189,318,499,954",3094,Millenials
+Thailand,2005,male,5-14 years,26,4951038,0.53,Thailand2005,0.684,"189,318,499,954",3094,Millenials
+Thailand,2005,female,5-14 years,12,4737188,0.25,Thailand2005,0.684,"189,318,499,954",3094,Millenials
+Thailand,2006,male,25-34 years,765,5386410,14.2,Thailand2006,,"221,758,486,880",3598,Generation X
+Thailand,2006,male,35-54 years,1150,9887556,11.63,Thailand2006,,"221,758,486,880",3598,Boomers
+Thailand,2006,male,55-74 years,458,4090909,11.2,Thailand2006,,"221,758,486,880",3598,Silent
+Thailand,2006,male,75+ years,87,801587,10.85,Thailand2006,,"221,758,486,880",3598,Silent
+Thailand,2006,male,15-24 years,378,5162684,7.32,Thailand2006,,"221,758,486,880",3598,Millenials
+Thailand,2006,female,35-54 years,339,10529498,3.22,Thailand2006,,"221,758,486,880",3598,Boomers
+Thailand,2006,female,55-74 years,147,4640141,3.17,Thailand2006,,"221,758,486,880",3598,Silent
+Thailand,2006,female,75+ years,27,1054449,2.56,Thailand2006,,"221,758,486,880",3598,Silent
+Thailand,2006,female,25-34 years,139,5487543,2.53,Thailand2006,,"221,758,486,880",3598,Generation X
+Thailand,2006,female,15-24 years,91,5071455,1.79,Thailand2006,,"221,758,486,880",3598,Millenials
+Thailand,2006,male,5-14 years,14,4871391,0.29,Thailand2006,,"221,758,486,880",3598,Millenials
+Thailand,2006,female,5-14 years,13,4652889,0.28,Thailand2006,,"221,758,486,880",3598,Millenials
+Thailand,2007,male,75+ years,104,708031,14.69,Thailand2007,,"262,942,650,544",4461,Silent
+Thailand,2007,male,25-34 years,798,5444545,14.66,Thailand2007,,"262,942,650,544",4461,Generation X
+Thailand,2007,male,55-74 years,470,3718870,12.64,Thailand2007,,"262,942,650,544",4461,Silent
+Thailand,2007,male,35-54 years,1149,9422822,12.19,Thailand2007,,"262,942,650,544",4461,Boomers
+Thailand,2007,male,15-24 years,406,4948804,8.2,Thailand2007,,"262,942,650,544",4461,Millenials
+Thailand,2007,female,75+ years,43,1017629,4.23,Thailand2007,,"262,942,650,544",4461,Silent
+Thailand,2007,female,55-74 years,155,4278519,3.62,Thailand2007,,"262,942,650,544",4461,Silent
+Thailand,2007,female,35-54 years,356,9981463,3.57,Thailand2007,,"262,942,650,544",4461,Boomers
+Thailand,2007,female,25-34 years,159,5419991,2.93,Thailand2007,,"262,942,650,544",4461,Generation X
+Thailand,2007,female,15-24 years,89,4762664,1.87,Thailand2007,,"262,942,650,544",4461,Millenials
+Thailand,2007,male,5-14 years,16,4752235,0.34,Thailand2007,,"262,942,650,544",4461,Generation Z
+Thailand,2007,female,5-14 years,9,4486048,0.2,Thailand2007,,"262,942,650,544",4461,Generation Z
+Thailand,2008,male,25-34 years,757,5411804,13.99,Thailand2008,,"291,383,081,232",4921,Generation X
+Thailand,2008,male,75+ years,101,726812,13.9,Thailand2008,,"291,383,081,232",4921,Silent
+Thailand,2008,male,55-74 years,473,3802960,12.44,Thailand2008,,"291,383,081,232",4921,Silent
+Thailand,2008,male,35-54 years,1188,9562677,12.42,Thailand2008,,"291,383,081,232",4921,Boomers
+Thailand,2008,male,15-24 years,374,4934951,7.58,Thailand2008,,"291,383,081,232",4921,Millenials
+Thailand,2008,female,75+ years,50,1054269,4.74,Thailand2008,,"291,383,081,232",4921,Silent
+Thailand,2008,female,55-74 years,173,4389154,3.94,Thailand2008,,"291,383,081,232",4921,Silent
+Thailand,2008,female,35-54 years,398,10132362,3.93,Thailand2008,,"291,383,081,232",4921,Boomers
+Thailand,2008,female,25-34 years,143,5373526,2.66,Thailand2008,,"291,383,081,232",4921,Generation X
+Thailand,2008,female,15-24 years,97,4741877,2.05,Thailand2008,,"291,383,081,232",4921,Millenials
+Thailand,2008,male,5-14 years,13,4676722,0.28,Thailand2008,,"291,383,081,232",4921,Generation Z
+Thailand,2008,female,5-14 years,11,4409659,0.25,Thailand2008,,"291,383,081,232",4921,Generation Z
+Thailand,2009,male,75+ years,116,755613,15.35,Thailand2009,,"281,710,095,725",4736,Silent
+Thailand,2009,male,55-74 years,542,3927105,13.8,Thailand2009,,"281,710,095,725",4736,Silent
+Thailand,2009,male,25-34 years,707,5357432,13.2,Thailand2009,,"281,710,095,725",4736,Generation X
+Thailand,2009,male,35-54 years,1172,9681789,12.11,Thailand2009,,"281,710,095,725",4736,Boomers
+Thailand,2009,male,15-24 years,369,4914657,7.51,Thailand2009,,"281,710,095,725",4736,Millenials
+Thailand,2009,female,55-74 years,185,4542278,4.07,Thailand2009,,"281,710,095,725",4736,Silent
+Thailand,2009,female,35-54 years,382,10260748,3.72,Thailand2009,,"281,710,095,725",4736,Boomers
+Thailand,2009,female,75+ years,35,1099718,3.18,Thailand2009,,"281,710,095,725",4736,Silent
+Thailand,2009,female,25-34 years,142,5309573,2.67,Thailand2009,,"281,710,095,725",4736,Generation X
+Thailand,2009,female,15-24 years,100,4716781,2.12,Thailand2009,,"281,710,095,725",4736,Millenials
+Thailand,2009,male,5-14 years,20,4588799,0.44,Thailand2009,,"281,710,095,725",4736,Generation Z
+Thailand,2009,female,5-14 years,17,4329225,0.39,Thailand2009,,"281,710,095,725",4736,Generation Z
+Thailand,2010,male,75+ years,145,787665,18.41,Thailand2010,0.716,"341,105,009,515",5707,Silent
+Thailand,2010,male,25-34 years,688,5293421,13,Thailand2010,0.716,"341,105,009,515",5707,Generation X
+Thailand,2010,male,55-74 years,511,4075634,12.54,Thailand2010,0.716,"341,105,009,515",5707,Silent
+Thailand,2010,male,35-54 years,1166,9786527,11.91,Thailand2010,0.716,"341,105,009,515",5707,Generation X
+Thailand,2010,male,15-24 years,387,4905031,7.89,Thailand2010,0.716,"341,105,009,515",5707,Millenials
+Thailand,2010,female,75+ years,41,1146473,3.58,Thailand2010,0.716,"341,105,009,515",5707,Silent
+Thailand,2010,female,55-74 years,164,4724470,3.47,Thailand2010,0.716,"341,105,009,515",5707,Silent
+Thailand,2010,female,35-54 years,345,10369541,3.33,Thailand2010,0.716,"341,105,009,515",5707,Generation X
+Thailand,2010,female,25-34 years,164,5237458,3.13,Thailand2010,0.716,"341,105,009,515",5707,Generation X
+Thailand,2010,female,15-24 years,120,4702548,2.55,Thailand2010,0.716,"341,105,009,515",5707,Millenials
+Thailand,2010,male,5-14 years,16,4496770,0.36,Thailand2010,0.716,"341,105,009,515",5707,Generation Z
+Thailand,2010,female,5-14 years,14,4244226,0.33,Thailand2010,0.716,"341,105,009,515",5707,Generation Z
+Thailand,2011,male,25-34 years,782,5237957,14.93,Thailand2011,0.721,"370,818,747,397",6153,Millenials
+Thailand,2011,male,75+ years,112,827970,13.53,Thailand2011,0.721,"370,818,747,397",6153,Silent
+Thailand,2011,male,35-54 years,1227,9897542,12.4,Thailand2011,0.721,"370,818,747,397",6153,Generation X
+Thailand,2011,male,55-74 years,488,4266668,11.44,Thailand2011,0.721,"370,818,747,397",6153,Boomers
+Thailand,2011,male,15-24 years,357,4929387,7.24,Thailand2011,0.721,"370,818,747,397",6153,Millenials
+Thailand,2011,female,75+ years,56,1205643,4.64,Thailand2011,0.721,"370,818,747,397",6153,Silent
+Thailand,2011,female,55-74 years,217,4948016,4.39,Thailand2011,0.721,"370,818,747,397",6153,Boomers
+Thailand,2011,female,35-54 years,361,10474832,3.45,Thailand2011,0.721,"370,818,747,397",6153,Generation X
+Thailand,2011,female,25-34 years,147,5172436,2.84,Thailand2011,0.721,"370,818,747,397",6153,Millenials
+Thailand,2011,female,15-24 years,95,4723611,2.01,Thailand2011,0.721,"370,818,747,397",6153,Millenials
+Thailand,2011,male,5-14 years,19,4413405,0.43,Thailand2011,0.721,"370,818,747,397",6153,Generation Z
+Thailand,2011,female,5-14 years,12,4164365,0.29,Thailand2011,0.721,"370,818,747,397",6153,Generation Z
+Thailand,2012,male,75+ years,136,869252,15.65,Thailand2012,0.724,"397,558,094,270",6584,Silent
+Thailand,2012,male,25-34 years,721,5121552,14.08,Thailand2012,0.724,"397,558,094,270",6584,Millenials
+Thailand,2012,male,55-74 years,581,4433963,13.1,Thailand2012,0.724,"397,558,094,270",6584,Boomers
+Thailand,2012,male,35-54 years,1234,9949264,12.4,Thailand2012,0.724,"397,558,094,270",6584,Generation X
+Thailand,2012,male,15-24 years,369,4938617,7.47,Thailand2012,0.724,"397,558,094,270",6584,Millenials
+Thailand,2012,female,55-74 years,222,5145957,4.31,Thailand2012,0.724,"397,558,094,270",6584,Boomers
+Thailand,2012,female,75+ years,54,1265466,4.27,Thailand2012,0.724,"397,558,094,270",6584,Silent
+Thailand,2012,female,35-54 years,394,10521850,3.74,Thailand2012,0.724,"397,558,094,270",6584,Generation X
+Thailand,2012,female,25-34 years,162,5050719,3.21,Thailand2012,0.724,"397,558,094,270",6584,Millenials
+Thailand,2012,female,15-24 years,84,4728702,1.78,Thailand2012,0.724,"397,558,094,270",6584,Millenials
+Thailand,2012,female,5-14 years,14,4056666,0.35,Thailand2012,0.724,"397,558,094,270",6584,Generation Z
+Thailand,2012,male,5-14 years,14,4300247,0.33,Thailand2012,0.724,"397,558,094,270",6584,Generation Z
+Thailand,2013,male,75+ years,152,937427,16.21,Thailand2013,0.724,"420,333,333,333",6917,Silent
+Thailand,2013,male,25-34 years,706,5038432,14.01,Thailand2013,0.724,"420,333,333,333",6917,Millenials
+Thailand,2013,male,35-54 years,1313,10032499,13.09,Thailand2013,0.724,"420,333,333,333",6917,Generation X
+Thailand,2013,male,55-74 years,586,4596763,12.75,Thailand2013,0.724,"420,333,333,333",6917,Boomers
+Thailand,2013,male,15-24 years,331,4956860,6.68,Thailand2013,0.724,"420,333,333,333",6917,Millenials
+Thailand,2013,female,75+ years,64,1362800,4.7,Thailand2013,0.724,"420,333,333,333",6917,Silent
+Thailand,2013,female,35-54 years,382,10594744,3.61,Thailand2013,0.724,"420,333,333,333",6917,Generation X
+Thailand,2013,female,55-74 years,190,5336311,3.56,Thailand2013,0.724,"420,333,333,333",6917,Boomers
+Thailand,2013,female,25-34 years,126,4960889,2.54,Thailand2013,0.724,"420,333,333,333",6917,Millenials
+Thailand,2013,female,15-24 years,88,4741021,1.86,Thailand2013,0.724,"420,333,333,333",6917,Millenials
+Thailand,2013,male,5-14 years,17,4224575,0.4,Thailand2013,0.724,"420,333,333,333",6917,Generation Z
+Thailand,2013,female,5-14 years,6,3984166,0.15,Thailand2013,0.724,"420,333,333,333",6917,Generation Z
+Thailand,2014,male,25-34 years,682,4969108,13.72,Thailand2014,0.726,"407,339,361,696",6662,Millenials
+Thailand,2014,male,75+ years,137,1005485,13.63,Thailand2014,0.726,"407,339,361,696",6662,Silent
+Thailand,2014,male,55-74 years,632,4771792,13.24,Thailand2014,0.726,"407,339,361,696",6662,Boomers
+Thailand,2014,male,35-54 years,1274,10095367,12.62,Thailand2014,0.726,"407,339,361,696",6662,Generation X
+Thailand,2014,male,15-24 years,337,4935213,6.83,Thailand2014,0.726,"407,339,361,696",6662,Millenials
+Thailand,2014,female,75+ years,71,1458962,4.87,Thailand2014,0.726,"407,339,361,696",6662,Silent
+Thailand,2014,female,55-74 years,240,5539928,4.33,Thailand2014,0.726,"407,339,361,696",6662,Boomers
+Thailand,2014,female,35-54 years,388,10644118,3.65,Thailand2014,0.726,"407,339,361,696",6662,Generation X
+Thailand,2014,female,25-34 years,116,4883263,2.38,Thailand2014,0.726,"407,339,361,696",6662,Millenials
+Thailand,2014,female,15-24 years,49,4717317,1.04,Thailand2014,0.726,"407,339,361,696",6662,Millenials
+Thailand,2014,female,5-14 years,14,3940160,0.36,Thailand2014,0.726,"407,339,361,696",6662,Generation Z
+Thailand,2014,male,5-14 years,12,4179206,0.29,Thailand2014,0.726,"407,339,361,696",6662,Generation Z
+Thailand,2015,male,75+ years,174,1068139,16.29,Thailand2015,,"401,399,422,443",6552,Silent
+Thailand,2015,male,35-54 years,1482,10101149,14.67,Thailand2015,,"401,399,422,443",6552,Generation X
+Thailand,2015,male,55-74 years,718,4990958,14.39,Thailand2015,,"401,399,422,443",6552,Boomers
+Thailand,2015,male,25-34 years,663,4873464,13.6,Thailand2015,,"401,399,422,443",6552,Millenials
+Thailand,2015,male,15-24 years,317,4847684,6.54,Thailand2015,,"401,399,422,443",6552,Millenials
+Thailand,2015,female,55-74 years,248,5795996,4.28,Thailand2015,,"401,399,422,443",6552,Boomers
+Thailand,2015,female,75+ years,63,1527522,4.12,Thailand2015,,"401,399,422,443",6552,Silent
+Thailand,2015,female,35-54 years,363,10646859,3.41,Thailand2015,,"401,399,422,443",6552,Generation X
+Thailand,2015,female,25-34 years,96,4783703,2.01,Thailand2015,,"401,399,422,443",6552,Millenials
+Thailand,2015,female,15-24 years,55,4632371,1.19,Thailand2015,,"401,399,422,443",6552,Millenials
+Thailand,2015,female,5-14 years,14,3881727,0.36,Thailand2015,,"401,399,422,443",6552,Generation Z
+Thailand,2015,male,5-14 years,12,4111704,0.29,Thailand2015,,"401,399,422,443",6552,Generation Z
+Thailand,2016,male,55-74 years,734,5203957,14.1,Thailand2016,,"411,755,164,833",6713,Boomers
+Thailand,2016,male,35-54 years,1421,10084647,14.09,Thailand2016,,"411,755,164,833",6713,Generation X
+Thailand,2016,male,75+ years,152,1124052,13.52,Thailand2016,,"411,755,164,833",6713,Silent
+Thailand,2016,male,25-34 years,646,4796355,13.47,Thailand2016,,"411,755,164,833",6713,Millenials
+Thailand,2016,male,15-24 years,322,4736305,6.8,Thailand2016,,"411,755,164,833",6713,Millenials
+Thailand,2016,female,75+ years,69,1589015,4.34,Thailand2016,,"411,755,164,833",6713,Silent
+Thailand,2016,female,55-74 years,222,6049756,3.67,Thailand2016,,"411,755,164,833",6713,Boomers
+Thailand,2016,female,35-54 years,375,10629684,3.53,Thailand2016,,"411,755,164,833",6713,Generation X
+Thailand,2016,female,25-34 years,116,4702656,2.47,Thailand2016,,"411,755,164,833",6713,Millenials
+Thailand,2016,female,15-24 years,60,4525574,1.33,Thailand2016,,"411,755,164,833",6713,Millenials
+Philippines,1992,male,75+ years,6,265186,2.26,Philippines1992,,"52,976,344,929",958,G.I. Generation
+Philippines,1992,male,55-74 years,26,1817237,1.43,Philippines1992,,"52,976,344,929",958,Silent
+Philippines,1992,male,25-34 years,66,5080108,1.3,Philippines1992,,"52,976,344,929",958,Boomers
+Philippines,1992,male,15-24 years,86,6622107,1.3,Philippines1992,,"52,976,344,929",958,Generation X
+Philippines,1992,male,35-54 years,60,5583152,1.07,Philippines1992,,"52,976,344,929",958,Boomers
+Philippines,1992,female,15-24 years,57,6366294,0.9,Philippines1992,,"52,976,344,929",958,Generation X
+Philippines,1992,female,75+ years,2,385751,0.52,Philippines1992,,"52,976,344,929",958,G.I. Generation
+Philippines,1992,female,35-54 years,21,5529627,0.38,Philippines1992,,"52,976,344,929",958,Boomers
+Philippines,1992,female,55-74 years,7,2109209,0.33,Philippines1992,,"52,976,344,929",958,Silent
+Philippines,1992,female,25-34 years,16,4932715,0.32,Philippines1992,,"52,976,344,929",958,Boomers
+Philippines,1992,female,5-14 years,0,8129872,0,Philippines1992,,"52,976,344,929",958,Millenials
+Philippines,1992,male,5-14 years,0,8483426,0,Philippines1992,,"52,976,344,929",958,Millenials
+Philippines,1993,male,75+ years,9,268392,3.35,Philippines1993,,"54,368,083,953",957,G.I. Generation
+Philippines,1993,male,25-34 years,154,5196998,2.96,Philippines1993,,"54,368,083,953",957,Boomers
+Philippines,1993,female,15-24 years,169,6509080,2.6,Philippines1993,,"54,368,083,953",957,Generation X
+Philippines,1993,male,15-24 years,175,6764969,2.59,Philippines1993,,"54,368,083,953",957,Generation X
+Philippines,1993,female,75+ years,10,395945,2.53,Philippines1993,,"54,368,083,953",957,G.I. Generation
+Philippines,1993,male,35-54 years,128,5807147,2.2,Philippines1993,,"54,368,083,953",957,Boomers
+Philippines,1993,male,55-74 years,40,1875192,2.13,Philippines1993,,"54,368,083,953",957,Silent
+Philippines,1993,female,25-34 years,86,5051261,1.7,Philippines1993,,"54,368,083,953",957,Boomers
+Philippines,1993,female,55-74 years,21,2175656,0.97,Philippines1993,,"54,368,083,953",957,Silent
+Philippines,1993,female,35-54 years,54,5754827,0.94,Philippines1993,,"54,368,083,953",957,Boomers
+Philippines,1993,female,5-14 years,0,8308799,0,Philippines1993,,"54,368,083,953",957,Millenials
+Philippines,1993,male,5-14 years,0,8673303,0,Philippines1993,,"54,368,083,953",957,Millenials
+Philippines,1997,male,75+ years,13,288929,4.5,Philippines1997,,"82,344,260,571",1312,G.I. Generation
+Philippines,1997,male,25-34 years,193,5635075,3.42,Philippines1997,,"82,344,260,571",1312,Generation X
+Philippines,1997,male,55-74 years,66,2136927,3.09,Philippines1997,,"82,344,260,571",1312,Silent
+Philippines,1997,male,15-24 years,167,7367351,2.27,Philippines1997,,"82,344,260,571",1312,Generation X
+Philippines,1997,male,35-54 years,146,6734331,2.17,Philippines1997,,"82,344,260,571",1312,Boomers
+Philippines,1997,female,15-24 years,84,7103613,1.18,Philippines1997,,"82,344,260,571",1312,Generation X
+Philippines,1997,female,25-34 years,49,5497526,0.89,Philippines1997,,"82,344,260,571",1312,Generation X
+Philippines,1997,female,75+ years,4,450881,0.89,Philippines1997,,"82,344,260,571",1312,G.I. Generation
+Philippines,1997,female,35-54 years,56,6702440,0.84,Philippines1997,,"82,344,260,571",1312,Boomers
+Philippines,1997,female,55-74 years,20,2461814,0.81,Philippines1997,,"82,344,260,571",1312,Silent
+Philippines,1997,male,5-14 years,10,9402618,0.11,Philippines1997,,"82,344,260,571",1312,Millenials
+Philippines,1997,female,5-14 years,6,8991189,0.07,Philippines1997,,"82,344,260,571",1312,Millenials
+Philippines,1998,male,75+ years,18,295869,6.08,Philippines1998,,"72,207,028,767",1124,G.I. Generation
+Philippines,1998,male,25-34 years,198,5737075,3.45,Philippines1998,,"72,207,028,767",1124,Generation X
+Philippines,1998,male,55-74 years,69,2209911,3.12,Philippines1998,,"72,207,028,767",1124,Silent
+Philippines,1998,male,15-24 years,189,7523504,2.51,Philippines1998,,"72,207,028,767",1124,Generation X
+Philippines,1998,male,35-54 years,175,6969508,2.51,Philippines1998,,"72,207,028,767",1124,Boomers
+Philippines,1998,female,15-24 years,87,7255489,1.2,Philippines1998,,"72,207,028,767",1124,Generation X
+Philippines,1998,female,25-34 years,52,5601858,0.93,Philippines1998,,"72,207,028,767",1124,Generation X
+Philippines,1998,female,55-74 years,23,2539996,0.91,Philippines1998,,"72,207,028,767",1124,Silent
+Philippines,1998,female,35-54 years,44,6946610,0.63,Philippines1998,,"72,207,028,767",1124,Boomers
+Philippines,1998,female,75+ years,2,466825,0.43,Philippines1998,,"72,207,028,767",1124,G.I. Generation
+Philippines,1998,male,5-14 years,16,9564500,0.17,Philippines1998,,"72,207,028,767",1124,Millenials
+Philippines,1998,female,5-14 years,10,9141469,0.11,Philippines1998,,"72,207,028,767",1124,Millenials
+Philippines,1999,male,75+ years,14,299370,4.68,Philippines1999,,"82,995,145,792",1262,G.I. Generation
+Philippines,1999,male,55-74 years,79,2287574,3.45,Philippines1999,,"82,995,145,792",1262,Silent
+Philippines,1999,male,25-34 years,199,5840463,3.41,Philippines1999,,"82,995,145,792",1262,Generation X
+Philippines,1999,male,15-24 years,257,7687280,3.34,Philippines1999,,"82,995,145,792",1262,Generation X
+Philippines,1999,male,35-54 years,225,7208041,3.12,Philippines1999,,"82,995,145,792",1262,Boomers
+Philippines,1999,female,75+ years,13,479461,2.71,Philippines1999,,"82,995,145,792",1262,G.I. Generation
+Philippines,1999,female,15-24 years,96,7413770,1.29,Philippines1999,,"82,995,145,792",1262,Generation X
+Philippines,1999,female,25-34 years,61,5708649,1.07,Philippines1999,,"82,995,145,792",1262,Generation X
+Philippines,1999,female,55-74 years,21,2623906,0.8,Philippines1999,,"82,995,145,792",1262,Silent
+Philippines,1999,female,35-54 years,57,7196381,0.79,Philippines1999,,"82,995,145,792",1262,Boomers
+Philippines,1999,male,5-14 years,14,9713454,0.14,Philippines1999,,"82,995,145,792",1262,Millenials
+Philippines,1999,female,5-14 years,7,9281852,0.08,Philippines1999,,"82,995,145,792",1262,Millenials
+Philippines,2000,male,75+ years,20,299136,6.69,Philippines2000,0.623,"81,026,300,311",1205,G.I. Generation
+Philippines,2000,male,55-74 years,121,2370016,5.11,Philippines2000,0.623,"81,026,300,311",1205,Silent
+Philippines,2000,male,25-34 years,276,5947283,4.64,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+Philippines,2000,male,15-24 years,316,7859202,4.02,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+Philippines,2000,male,35-54 years,294,7449254,3.95,Philippines2000,0.623,"81,026,300,311",1205,Boomers
+Philippines,2000,female,75+ years,10,488377,2.05,Philippines2000,0.623,"81,026,300,311",1205,G.I. Generation
+Philippines,2000,female,15-24 years,120,7579338,1.58,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+Philippines,2000,female,25-34 years,89,5820018,1.53,Philippines2000,0.623,"81,026,300,311",1205,Generation X
+Philippines,2000,female,35-54 years,98,7451816,1.32,Philippines2000,0.623,"81,026,300,311",1205,Boomers
+Philippines,2000,female,55-74 years,27,2713829,0.99,Philippines2000,0.623,"81,026,300,311",1205,Silent
+Philippines,2000,male,5-14 years,18,9850796,0.18,Philippines2000,0.623,"81,026,300,311",1205,Millenials
+Philippines,2000,female,5-14 years,14,9414417,0.15,Philippines2000,0.623,"81,026,300,311",1205,Millenials
+Philippines,2001,male,75+ years,20,309681,6.46,Philippines2001,,"76,262,072,468",1109,Silent
+Philippines,2001,male,55-74 years,104,2445998,4.25,Philippines2001,,"76,262,072,468",1109,Silent
+Philippines,2001,male,25-34 years,246,6058399,4.06,Philippines2001,,"76,262,072,468",1109,Generation X
+Philippines,2001,male,15-24 years,310,8018698,3.87,Philippines2001,,"76,262,072,468",1109,Millenials
+Philippines,2001,male,35-54 years,235,7684196,3.06,Philippines2001,,"76,262,072,468",1109,Boomers
+Philippines,2001,female,15-24 years,104,7738503,1.34,Philippines2001,,"76,262,072,468",1109,Millenials
+Philippines,2001,female,55-74 years,34,2797077,1.22,Philippines2001,,"76,262,072,468",1109,Silent
+Philippines,2001,female,35-54 years,79,7711226,1.02,Philippines2001,,"76,262,072,468",1109,Boomers
+Philippines,2001,female,25-34 years,48,5937956,0.81,Philippines2001,,"76,262,072,468",1109,Generation X
+Philippines,2001,female,75+ years,4,505269,0.79,Philippines2001,,"76,262,072,468",1109,Silent
+Philippines,2001,male,5-14 years,12,9985839,0.12,Philippines2001,,"76,262,072,468",1109,Millenials
+Philippines,2001,female,5-14 years,8,9545250,0.08,Philippines2001,,"76,262,072,468",1109,Millenials
+Philippines,2002,male,75+ years,20,316845,6.31,Philippines2002,,"81,357,605,642",1158,Silent
+Philippines,2002,male,25-34 years,267,6171400,4.33,Philippines2002,,"81,357,605,642",1158,Generation X
+Philippines,2002,male,15-24 years,346,8184036,4.23,Philippines2002,,"81,357,605,642",1158,Millenials
+Philippines,2002,male,55-74 years,93,2525030,3.68,Philippines2002,,"81,357,605,642",1158,Silent
+Philippines,2002,male,35-54 years,251,7922273,3.17,Philippines2002,,"81,357,605,642",1158,Boomers
+Philippines,2002,female,75+ years,11,518398,2.12,Philippines2002,,"81,357,605,642",1158,Silent
+Philippines,2002,female,15-24 years,114,7903007,1.44,Philippines2002,,"81,357,605,642",1158,Millenials
+Philippines,2002,female,25-34 years,61,6059494,1.01,Philippines2002,,"81,357,605,642",1158,Generation X
+Philippines,2002,female,55-74 years,27,2885746,0.94,Philippines2002,,"81,357,605,642",1158,Silent
+Philippines,2002,female,35-54 years,74,7977125,0.93,Philippines2002,,"81,357,605,642",1158,Boomers
+Philippines,2002,male,5-14 years,22,10117670,0.22,Philippines2002,,"81,357,605,642",1158,Millenials
+Philippines,2002,female,5-14 years,15,9675419,0.16,Philippines2002,,"81,357,605,642",1158,Millenials
+Philippines,2003,male,75+ years,25,321984,7.76,Philippines2003,,"83,908,206,648",1169,Silent
+Philippines,2003,male,25-34 years,328,6286119,5.22,Philippines2003,,"83,908,206,648",1169,Generation X
+Philippines,2003,male,55-74 years,107,2610718,4.1,Philippines2003,,"83,908,206,648",1169,Silent
+Philippines,2003,male,35-54 years,333,8157759,4.08,Philippines2003,,"83,908,206,648",1169,Boomers
+Philippines,2003,male,15-24 years,328,8353621,3.93,Philippines2003,,"83,908,206,648",1169,Millenials
+Philippines,2003,female,75+ years,13,529230,2.46,Philippines2003,,"83,908,206,648",1169,Silent
+Philippines,2003,female,15-24 years,166,8067958,2.06,Philippines2003,,"83,908,206,648",1169,Millenials
+Philippines,2003,female,25-34 years,90,6181789,1.46,Philippines2003,,"83,908,206,648",1169,Generation X
+Philippines,2003,female,35-54 years,93,8239334,1.13,Philippines2003,,"83,908,206,648",1169,Boomers
+Philippines,2003,female,55-74 years,26,2983062,0.87,Philippines2003,,"83,908,206,648",1169,Silent
+Philippines,2003,male,5-14 years,21,10247489,0.2,Philippines2003,,"83,908,206,648",1169,Millenials
+Philippines,2003,female,5-14 years,14,9802426,0.14,Philippines2003,,"83,908,206,648",1169,Millenials
+Philippines,2006,male,75+ years,33,355935,9.27,Philippines2006,,"122,210,716,310",1599,Silent
+Philippines,2006,male,25-34 years,369,6698883,5.51,Philippines2006,,"122,210,716,310",1599,Generation X
+Philippines,2006,male,55-74 years,162,2986225,5.42,Philippines2006,,"122,210,716,310",1599,Silent
+Philippines,2006,male,15-24 years,400,8792762,4.55,Philippines2006,,"122,210,716,310",1599,Millenials
+Philippines,2006,male,35-54 years,387,8891788,4.35,Philippines2006,,"122,210,716,310",1599,Boomers
+Philippines,2006,female,15-24 years,146,8479381,1.72,Philippines2006,,"122,210,716,310",1599,Millenials
+Philippines,2006,female,75+ years,10,581896,1.72,Philippines2006,,"122,210,716,310",1599,Silent
+Philippines,2006,female,25-34 years,91,6566402,1.39,Philippines2006,,"122,210,716,310",1599,Generation X
+Philippines,2006,female,55-74 years,39,3408683,1.14,Philippines2006,,"122,210,716,310",1599,Silent
+Philippines,2006,female,35-54 years,88,8949537,0.98,Philippines2006,,"122,210,716,310",1599,Boomers
+Philippines,2006,male,5-14 years,35,10602914,0.33,Philippines2006,,"122,210,716,310",1599,Millenials
+Philippines,2006,female,5-14 years,28,10121349,0.28,Philippines2006,,"122,210,716,310",1599,Millenials
+Philippines,2007,male,75+ years,19,381376,4.98,Philippines2007,,"149,359,918,060",1915,Silent
+Philippines,2007,male,15-24 years,430,8891042,4.84,Philippines2007,,"149,359,918,060",1915,Millenials
+Philippines,2007,male,25-34 years,304,6859752,4.43,Philippines2007,,"149,359,918,060",1915,Generation X
+Philippines,2007,male,35-54 years,387,9192285,4.21,Philippines2007,,"149,359,918,060",1915,Boomers
+Philippines,2007,male,55-74 years,131,3162355,4.14,Philippines2007,,"149,359,918,060",1915,Silent
+Philippines,2007,female,15-24 years,158,8579154,1.84,Philippines2007,,"149,359,918,060",1915,Millenials
+Philippines,2007,female,25-34 years,89,6698777,1.33,Philippines2007,,"149,359,918,060",1915,Generation X
+Philippines,2007,female,55-74 years,43,3600369,1.19,Philippines2007,,"149,359,918,060",1915,Silent
+Philippines,2007,female,35-54 years,98,9184426,1.07,Philippines2007,,"149,359,918,060",1915,Boomers
+Philippines,2007,female,75+ years,5,616190,0.81,Philippines2007,,"149,359,918,060",1915,Silent
+Philippines,2007,male,5-14 years,21,10679730,0.2,Philippines2007,,"149,359,918,060",1915,Generation Z
+Philippines,2007,female,5-14 years,13,10163198,0.13,Philippines2007,,"149,359,918,060",1915,Generation Z
+Philippines,2008,male,75+ years,29,407854,7.11,Philippines2008,,"174,195,136,253",2188,Silent
+Philippines,2008,male,25-34 years,370,7009909,5.28,Philippines2008,,"174,195,136,253",2188,Generation X
+Philippines,2008,male,15-24 years,441,9009351,4.89,Philippines2008,,"174,195,136,253",2188,Millenials
+Philippines,2008,male,55-74 years,144,3349085,4.3,Philippines2008,,"174,195,136,253",2188,Silent
+Philippines,2008,male,35-54 years,403,9511269,4.24,Philippines2008,,"174,195,136,253",2188,Boomers
+Philippines,2008,female,15-24 years,171,8697827,1.97,Philippines2008,,"174,195,136,253",2188,Millenials
+Philippines,2008,female,75+ years,12,654125,1.83,Philippines2008,,"174,195,136,253",2188,Silent
+Philippines,2008,female,25-34 years,81,6825356,1.19,Philippines2008,,"174,195,136,253",2188,Generation X
+Philippines,2008,female,35-54 years,92,9432654,0.98,Philippines2008,,"174,195,136,253",2188,Boomers
+Philippines,2008,female,55-74 years,31,3795762,0.82,Philippines2008,,"174,195,136,253",2188,Silent
+Philippines,2008,male,5-14 years,24,10735591,0.22,Philippines2008,,"174,195,136,253",2188,Generation Z
+Philippines,2008,female,5-14 years,22,10167105,0.22,Philippines2008,,"174,195,136,253",2188,Generation Z
+Philippines,2009,male,75+ years,30,435025,6.9,Philippines2009,,"168,334,601,260",2073,Silent
+Philippines,2009,male,25-34 years,383,7144648,5.36,Philippines2009,,"168,334,601,260",2073,Generation X
+Philippines,2009,male,15-24 years,475,9146246,5.19,Philippines2009,,"168,334,601,260",2073,Millenials
+Philippines,2009,male,55-74 years,171,3542917,4.83,Philippines2009,,"168,334,601,260",2073,Silent
+Philippines,2009,male,35-54 years,468,9849908,4.75,Philippines2009,,"168,334,601,260",2073,Boomers
+Philippines,2009,female,15-24 years,232,8838722,2.62,Philippines2009,,"168,334,601,260",2073,Millenials
+Philippines,2009,female,25-34 years,101,6948096,1.45,Philippines2009,,"168,334,601,260",2073,Generation X
+Philippines,2009,female,55-74 years,56,3992044,1.4,Philippines2009,,"168,334,601,260",2073,Silent
+Philippines,2009,female,35-54 years,114,9705410,1.17,Philippines2009,,"168,334,601,260",2073,Boomers
+Philippines,2009,female,75+ years,6,696919,0.86,Philippines2009,,"168,334,601,260",2073,Silent
+Philippines,2009,male,5-14 years,22,10758565,0.2,Philippines2009,,"168,334,601,260",2073,Generation Z
+Philippines,2009,female,5-14 years,16,10135355,0.16,Philippines2009,,"168,334,601,260",2073,Generation Z
+Philippines,2010,male,75+ years,42,463487,9.06,Philippines2010,0.654,"199,590,775,189",2412,Silent
+Philippines,2010,male,25-34 years,400,7256791,5.51,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+Philippines,2010,male,15-24 years,503,9293357,5.41,Philippines2010,0.654,"199,590,775,189",2412,Millenials
+Philippines,2010,male,55-74 years,180,3743523,4.81,Philippines2010,0.654,"199,590,775,189",2412,Silent
+Philippines,2010,male,35-54 years,469,10200672,4.6,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+Philippines,2010,female,15-24 years,218,8994318,2.42,Philippines2010,0.654,"199,590,775,189",2412,Millenials
+Philippines,2010,female,25-34 years,101,7063242,1.43,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+Philippines,2010,female,75+ years,10,745830,1.34,Philippines2010,0.654,"199,590,775,189",2412,Silent
+Philippines,2010,female,35-54 years,107,10000163,1.07,Philippines2010,0.654,"199,590,775,189",2412,Generation X
+Philippines,2010,female,55-74 years,34,4190559,0.81,Philippines2010,0.654,"199,590,775,189",2412,Silent
+Philippines,2010,male,5-14 years,35,10738646,0.33,Philippines2010,0.654,"199,590,775,189",2412,Generation Z
+Philippines,2010,female,5-14 years,17,10070404,0.17,Philippines2010,0.654,"199,590,775,189",2412,Generation Z
+Philippines,2011,male,75+ years,64,493450,12.97,Philippines2011,0.653,"224,143,083,707",2662,Silent
+Philippines,2011,male,25-34 years,470,7373201,6.37,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+Philippines,2011,male,55-74 years,227,3884001,5.84,Philippines2011,0.653,"224,143,083,707",2662,Boomers
+Philippines,2011,male,15-24 years,541,9485777,5.7,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+Philippines,2011,male,35-54 years,533,10412504,5.12,Philippines2011,0.653,"224,143,083,707",2662,Generation X
+Philippines,2011,female,15-24 years,221,9155053,2.41,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+Philippines,2011,female,75+ years,14,782366,1.79,Philippines2011,0.653,"224,143,083,707",2662,Silent
+Philippines,2011,female,25-34 years,120,7181904,1.67,Philippines2011,0.653,"224,143,083,707",2662,Millenials
+Philippines,2011,female,35-54 years,147,10216808,1.44,Philippines2011,0.653,"224,143,083,707",2662,Generation X
+Philippines,2011,female,55-74 years,39,4336188,0.9,Philippines2011,0.653,"224,143,083,707",2662,Boomers
+Philippines,2011,male,5-14 years,44,10788943,0.41,Philippines2011,0.653,"224,143,083,707",2662,Generation Z
+Philippines,2011,female,5-14 years,29,10091572,0.29,Philippines2011,0.653,"224,143,083,707",2662,Generation Z
